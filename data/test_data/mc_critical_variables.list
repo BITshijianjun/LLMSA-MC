@@ -1,0 +1,147 @@
+ngd->pdev
+return value of devm_regmap_init_i2c(cli, &hmc5843_i2c_regmap_config) 
+edev
+chan, buf_addr, buf_len, period_len
+ret
+trig
+r
+of_id
+of_id
+ceu_data, return value of of_match_device
+of_id
+devid, of_match_device( of_pca9532_leds_match, &client->dev)->data
+of_id
+match
+match
+match
+of_id
+of_id
+pdata->phy_interface
+plat_dat->interface, return value of of_get_phy_mode
+ret
+error
+err
+j
+status
+chip->regs, return value of pci_ioremap_bar
+pos
+data
+return value of STV090x_WRITE_DEMOD
+return value of STV091x_WRITE_DEMOD
+return value of STV092x_WRITE_DEMOD
+return value of STV093x_WRITE_DEMOD
+return value of STV094x_WRITE_DEMOD
+match
+ret_val
+ret_val
+match
+res
+ret
+ret
+result
+result
+result
+result
+result
+ret
+return value of STV090x_WRITE_DEMOD
+sw->uuid
+dev->ir_i2c_client
+xw->pkg
+ret
+status
+uuid
+dpcm->debugfs_state
+instance->bulk_scratch
+ii
+match
+rga->src_mmu_pages
+msi->pages
+port->msi_pages
+c->tmp
+timeout
+ret
+match
+ret
+return value of STV090x_WRITE_DEMOD
+workqueue
+ret
+sk->inurb[u]
+conn_info->resp_ie
+svc->id
+hpet_virt_address
+lsm_dentry
+obj
+master->idx
+of_id
+lp->wqueue
+llcp_sock->service_name, return value of kmemdup
+cinfo
+nsblk->alt_name
+ret
+chip->dsp_registers
+ep
+handle
+of_id
+ret
+transfer_size, return value of snd_soc_params_to_frame_size
+dir->uuid
+ret
+conn_info->req_ie
+rga->dst_mmu_pages
+fmc
+hba->clk_scaling.workq
+ngd->pdev
+result
+handle
+adapter->control_wq
+ret
+result
+timeleft
+desc
+result
+fm10k_workqueue
+hba->clk_gating.clk_gating_workq
+usbvision->sbuf[buf_idx].data
+ret
+sw->uuid
+kpcitest_workqueue
+acard->fm_res
+cache
+mddev->sync_thread, return value of md_register_thread
+timeleft
+il->workqueue
+qdev->workqueue
+nicvf_rx_mode_wq
+cm->rx_wq
+strp_wq
+il->workqueue
+adapter->txrx_wq 
+cm_core->event_wq
+ret_val
+msb->io_queue
+pool->dmapool
+upcall
+cs43130->wq
+priv->wq
+regs
+cm_core->disconn_wq
+radeon_crtc->flip_queue
+sk->outurb[u]
+vkms_out->crc_workq
+qdev->workqueue
+cm_wq
+fsl_chan->tcd_pool, return value of dma_pool_create
+timeout
+status
+props2
+index
+err
+return value of STV090x_WRITE_DEMOD
+result
+ret
+data, of_match_node(qcom_slim_ngd_dt_match, parent->of_node)->data
+err
+result
+id
+msi->pages

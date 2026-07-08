@@ -1,0 +1,149 @@
+Prompt_Type,Sample_ID,Model,Result,Output_File
+COT0,2,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_2_output.txt
+COT0,9,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_9_output.txt
+COT0,6,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_6_output.txt
+COT0,10,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_10_output.txt
+COT0,12,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_12_output.txt
+COT0,11,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_11_output.txt
+COT0,13,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_13_output.txt
+COT0,14,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_14_output.txt
+COT0,1,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_1_output.txt
+COT0,15,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_15_output.txt
+COT0,16,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_16_output.txt
+COT0,18,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_18_output.txt
+COT0,17,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_17_output.txt
+COT0,21,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_21_output.txt
+COT0,19,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_19_output.txt
+COT0,20,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_20_output.txt
+COT0,22,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_22_output.txt
+COT0,23,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_23_output.txt
+COT0,4,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_4_output.txt
+COT0,24,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_24_output.txt
+COT0,27,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_27_output.txt
+COT0,28,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_28_output.txt
+COT0,5,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_5_output.txt
+COT0,26,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_26_output.txt
+COT0,31,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_31_output.txt
+COT0,29,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_29_output.txt
+COT0,25,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_25_output.txt
+COT0,34,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_34_output.txt
+COT0,36,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_36_output.txt
+COT0,30,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_30_output.txt
+COT0,32,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_32_output.txt
+COT0,33,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_33_output.txt
+COT0,40,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_40_output.txt
+COT0,41,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_41_output.txt
+COT0,35,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_35_output.txt
+COT0,39,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_39_output.txt
+COT0,46,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_46_output.txt
+COT0,45,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_45_output.txt
+COT0,42,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_42_output.txt
+COT0,48,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_48_output.txt
+COT0,43,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_43_output.txt
+COT0,44,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_44_output.txt
+COT0,52,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_52_output.txt
+COT0,49,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_49_output.txt
+COT0,53,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_53_output.txt
+COT0,47,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_47_output.txt
+COT0,50,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_50_output.txt
+COT0,51,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_51_output.txt
+COT0,56,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_56_output.txt
+COT0,55,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_55_output.txt
+COT0,54,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_54_output.txt
+COT0,62,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_62_output.txt
+COT0,58,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_58_output.txt
+COT0,37,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_37_output.txt
+COT0,59,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_59_output.txt
+COT0,61,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_61_output.txt
+COT0,60,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_60_output.txt
+COT0,57,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_57_output.txt
+COT0,68,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_68_output.txt
+COT0,65,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_65_output.txt
+COT0,69,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_69_output.txt
+COT0,66,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_66_output.txt
+COT0,63,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_63_output.txt
+COT0,70,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_70_output.txt
+COT0,72,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_72_output.txt
+COT0,71,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_71_output.txt
+COT0,73,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_73_output.txt
+COT0,64,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_64_output.txt
+COT0,74,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_74_output.txt
+COT0,67,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_67_output.txt
+COT0,77,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_77_output.txt
+COT0,75,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_75_output.txt
+COT0,76,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_76_output.txt
+COT0,80,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_80_output.txt
+COT0,78,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_78_output.txt
+COT0,79,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_79_output.txt
+COT0,84,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_84_output.txt
+COT0,82,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_82_output.txt
+COT0,86,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_86_output.txt
+COT0,85,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_85_output.txt
+COT0,87,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_87_output.txt
+COT0,81,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_81_output.txt
+COT0,89,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_89_output.txt
+COT0,83,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_83_output.txt
+COT0,93,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_93_output.txt
+COT0,92,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_92_output.txt
+COT0,90,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_90_output.txt
+COT0,96,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_96_output.txt
+COT0,94,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_94_output.txt
+COT0,88,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_88_output.txt
+COT0,38,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_38_output.txt
+COT0,97,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_97_output.txt
+COT0,91,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_91_output.txt
+COT0,98,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_98_output.txt
+COT0,99,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_99_output.txt
+COT0,103,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_103_output.txt
+COT0,104,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_104_output.txt
+COT0,105,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_105_output.txt
+COT0,100,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_100_output.txt
+COT0,95,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_95_output.txt
+COT0,107,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_107_output.txt
+COT0,110,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_110_output.txt
+COT0,101,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_101_output.txt
+COT0,106,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_106_output.txt
+COT0,102,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_102_output.txt
+COT0,111,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_111_output.txt
+COT0,112,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_112_output.txt
+COT0,113,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_113_output.txt
+COT0,109,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_109_output.txt
+COT0,108,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_108_output.txt
+COT0,118,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_118_output.txt
+COT0,115,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_115_output.txt
+COT0,119,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_119_output.txt
+COT0,121,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_121_output.txt
+COT0,116,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_116_output.txt
+COT0,114,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_114_output.txt
+COT0,117,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_117_output.txt
+COT0,125,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_125_output.txt
+COT0,122,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_122_output.txt
+COT0,120,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_120_output.txt
+COT0,126,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_126_output.txt
+COT0,128,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_128_output.txt
+COT0,129,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_129_output.txt
+COT0,132,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_132_output.txt
+COT0,127,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_127_output.txt
+COT0,124,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_124_output.txt
+COT0,123,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_123_output.txt
+COT0,130,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_130_output.txt
+COT0,131,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_131_output.txt
+COT0,138,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_138_output.txt
+COT0,133,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_133_output.txt
+COT0,140,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_140_output.txt
+COT0,136,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_136_output.txt
+COT0,134,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_134_output.txt
+COT0,139,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_139_output.txt
+COT0,137,DeepSeek-V3,Has not been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_137_output.txt
+COT0,135,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_135_output.txt
+COT0,141,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_141_output.txt
+COT0,144,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_144_output.txt
+COT0,143,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_143_output.txt
+COT0,147,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_147_output.txt
+COT0,145,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_145_output.txt
+COT0,142,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_142_output.txt
+COT0,146,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_146_output.txt
+COT0,8,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_8_output.txt
+COT0,3,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_3_output.txt
+COT0,7,DeepSeek-V3,Has been checked,../data/test_data/test_results_2026/sc/COT0_DeepSeek-V3\DeepSeek-V3_7_output.txt
+Total analysis time: 254.93 seconds (4.25 minutes),,,,

@@ -1,0 +1,57 @@
+Prompt_Type,Sample_ID,Model,Result,Output_File
+COT4,7,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_7_output.txt
+COT4,5,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_5_output.txt
+COT4,2,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_2_output.txt
+COT4,1,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_1_output.txt
+COT4,4,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_4_output.txt
+COT4,6,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_6_output.txt
+COT4,8,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_8_output.txt
+COT4,3,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_3_output.txt
+COT4,12,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_12_output.txt
+COT4,9,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_9_output.txt
+COT4,11,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_11_output.txt
+COT4,10,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_10_output.txt
+COT4,13,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_13_output.txt
+COT4,16,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_16_output.txt
+COT4,14,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_14_output.txt
+COT4,15,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_15_output.txt
+COT4,18,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_18_output.txt
+COT4,20,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_20_output.txt
+COT4,19,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_19_output.txt
+COT4,17,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_17_output.txt
+COT4,21,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_21_output.txt
+COT4,22,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_22_output.txt
+COT4,23,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_23_output.txt
+COT4,24,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_24_output.txt
+COT4,25,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_25_output.txt
+COT4,26,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_26_output.txt
+COT4,28,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_28_output.txt
+COT4,27,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_27_output.txt
+COT4,30,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_30_output.txt
+COT4,32,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_32_output.txt
+COT4,31,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_31_output.txt
+COT4,29,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_29_output.txt
+COT4,35,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_35_output.txt
+COT4,33,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_33_output.txt
+COT4,39,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_39_output.txt
+COT4,34,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_34_output.txt
+COT4,36,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_36_output.txt
+COT4,37,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_37_output.txt
+COT4,38,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_38_output.txt
+COT4,40,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_40_output.txt
+COT4,41,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_41_output.txt
+COT4,42,claude-sonnet-4-20250514,Has not been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_42_output.txt
+COT4,43,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_43_output.txt
+COT4,44,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_44_output.txt
+COT4,45,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_45_output.txt
+COT4,46,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_46_output.txt
+COT4,48,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_48_output.txt
+COT4,47,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_47_output.txt
+COT4,49,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_49_output.txt
+COT4,50,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_50_output.txt
+COT4,51,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_51_output.txt
+COT4,52,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_52_output.txt
+COT4,53,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_53_output.txt
+COT4,55,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_55_output.txt
+COT4,54,claude-sonnet-4-20250514,Has been checked,../data/test_data/test_results_2026/sc_cross/COT4_claude-sonnet-4-20250514\claude-sonnet-4-20250514_54_output.txt
+Total analysis time: 56.38 seconds (0.94 minutes)

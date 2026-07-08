@@ -1,0 +1,224 @@
+Prompt_Type,Sample_ID,Model,Result,Output_File
+COT0_self-consistency,1,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_1_output.txt
+COT0_self-consistency,2,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_2_output.txt
+COT0_self-consistency,3,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_3_output.txt
+COT0_self-consistency,4,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_4_output.txt
+COT0_self-consistency,5,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_5_output.txt
+COT0_self-consistency,6,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_6_output.txt
+COT0_self-consistency,7,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_7_output.txt
+COT0_self-consistency,8,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_8_output.txt
+COT0_self-consistency,9,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_9_output.txt
+COT0_self-consistency,10,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_10_output.txt
+COT0_self-consistency,11,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_11_output.txt
+COT0_self-consistency,12,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_12_output.txt
+COT0_self-consistency,13,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_13_output.txt
+COT0_self-consistency,14,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_14_output.txt
+COT0_self-consistency,15,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_15_output.txt
+COT0_self-consistency,16,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_16_output.txt
+COT0_self-consistency,17,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_17_output.txt
+COT0_self-consistency,18,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_18_output.txt
+COT0_self-consistency,19,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_19_output.txt
+COT0_self-consistency,20,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_20_output.txt
+COT0_self-consistency,21,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_21_output.txt
+COT0_self-consistency,22,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_22_output.txt
+COT0_self-consistency,23,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_23_output.txt
+COT0_self-consistency,24,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_24_output.txt
+COT0_self-consistency,25,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_25_output.txt
+COT0_self-consistency,26,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_26_output.txt
+COT0_self-consistency,27,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_27_output.txt
+COT0_self-consistency,28,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_28_output.txt
+COT0_self-consistency,29,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_29_output.txt
+COT0_self-consistency,30,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_30_output.txt
+COT0_self-consistency,31,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_31_output.txt
+COT0_self-consistency,32,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_32_output.txt
+COT0_self-consistency,33,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_33_output.txt
+COT0_self-consistency,34,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_34_output.txt
+COT0_self-consistency,35,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_35_output.txt
+COT0_self-consistency,36,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_36_output.txt
+COT0_self-consistency,37,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_37_output.txt
+COT0_self-consistency,49,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_49_output.txt
+COT0_self-consistency,50,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_50_output.txt
+COT0_self-consistency,51,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_51_output.txt
+COT0_self-consistency,52,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_52_output.txt
+COT0_self-consistency,53,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_53_output.txt
+COT0_self-consistency,54,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_54_output.txt
+COT0_self-consistency,55,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_55_output.txt
+COT0_self-consistency,56,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_56_output.txt
+COT0_self-consistency,57,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_57_output.txt
+COT0_self-consistency,58,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_58_output.txt
+COT0_self-consistency,59,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_59_output.txt
+COT0_self-consistency,60,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_60_output.txt
+COT0_self-consistency,61,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_61_output.txt
+COT0_self-consistency,62,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_62_output.txt
+COT0_self-consistency,63,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_63_output.txt
+COT0_self-consistency,64,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_64_output.txt
+COT0_self-consistency,65,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_65_output.txt
+COT0_self-consistency,66,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_66_output.txt
+COT0_self-consistency,67,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_67_output.txt
+COT0_self-consistency,68,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_68_output.txt
+COT0_self-consistency,69,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_69_output.txt
+COT0_self-consistency,70,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_70_output.txt
+COT0_self-consistency,71,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_71_output.txt
+COT0_self-consistency,72,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_72_output.txt
+COT0_self-consistency,73,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_73_output.txt
+COT0_self-consistency,74,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_74_output.txt
+COT0_self-consistency,75,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_75_output.txt
+COT0_self-consistency,76,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_76_output.txt
+COT0_self-consistency,77,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_77_output.txt
+COT0_self-consistency,78,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_78_output.txt
+COT0_self-consistency,79,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_79_output.txt
+COT0_self-consistency,80,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_80_output.txt
+COT0_self-consistency,81,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_81_output.txt
+COT0_self-consistency,82,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_82_output.txt
+COT0_self-consistency,83,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_83_output.txt
+COT0_self-consistency,84,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_84_output.txt
+COT0_self-consistency,85,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_85_output.txt
+COT0_self-consistency,86,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_86_output.txt
+COT0_self-consistency,87,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_87_output.txt
+COT0_self-consistency,88,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_88_output.txt
+COT0_self-consistency,89,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_89_output.txt
+COT0_self-consistency,90,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_90_output.txt
+COT0_self-consistency,91,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_91_output.txt
+COT0_self-consistency,92,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_92_output.txt
+COT0_self-consistency,93,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_93_output.txt
+COT0_self-consistency,94,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_94_output.txt
+COT0_self-consistency,95,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_95_output.txt
+COT0_self-consistency,96,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_96_output.txt
+COT0_self-consistency,97,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_97_output.txt
+COT0_self-consistency,98,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_98_output.txt
+COT0_self-consistency,99,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_99_output.txt
+COT0_self-consistency,100,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_100_output.txt
+COT0_self-consistency,101,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_101_output.txt
+COT0_self-consistency,102,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_102_output.txt
+COT0_self-consistency,103,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_103_output.txt
+COT0_self-consistency,104,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_104_output.txt
+COT0_self-consistency,105,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_105_output.txt
+COT0_self-consistency,106,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_106_output.txt
+COT0_self-consistency,107,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_107_output.txt
+COT0_self-consistency,108,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_108_output.txt
+COT0_self-consistency,109,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_109_output.txt
+COT0_self-consistency,110,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_110_output.txt
+COT0_self-consistency,111,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_111_output.txt
+COT0_self-consistency,112,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_112_output.txt
+COT0_self-consistency,113,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_113_output.txt
+COT0_self-consistency,114,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_114_output.txt
+COT0_self-consistency,115,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_115_output.txt
+COT0_self-consistency,116,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_116_output.txt
+COT0_self-consistency,117,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_117_output.txt
+COT0_self-consistency,118,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_118_output.txt
+COT0_self-consistency,119,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_119_output.txt
+COT0_self-consistency,120,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_120_output.txt
+COT0_self-consistency,121,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_121_output.txt
+COT0_self-consistency,122,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_122_output.txt
+COT0_self-consistency,123,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_123_output.txt
+COT0_self-consistency,124,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_124_output.txt
+COT0_self-consistency,125,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_125_output.txt
+COT0_self-consistency,126,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_126_output.txt
+COT0_self-consistency,127,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_127_output.txt
+COT0_self-consistency,128,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_128_output.txt
+COT0_self-consistency,129,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_129_output.txt
+COT0_self-consistency,130,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_130_output.txt
+COT0_self-consistency,131,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_131_output.txt
+COT0_self-consistency,132,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_132_output.txt
+COT0_self-consistency,133,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_133_output.txt
+COT0_self-consistency,134,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_134_output.txt
+COT0_self-consistency,135,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_135_output.txt
+COT0_self-consistency,136,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_136_output.txt
+COT0_self-consistency,137,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_137_output.txt
+COT0_self-consistency,138,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_138_output.txt
+COT0_self-consistency,139,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_139_output.txt
+COT0_self-consistency,140,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_140_output.txt
+COT0_self-consistency,141,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_141_output.txt
+COT0_self-consistency,142,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_142_output.txt
+COT0_self-consistency,143,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_143_output.txt
+COT0_self-consistency,144,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_144_output.txt
+COT0_self-consistency,145,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_145_output.txt
+COT0_self-consistency,146,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_146_output.txt
+COT0_self-consistency,147,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_147_output.txt
+COT0_self-consistency,62,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_62_output.txt
+COT0_self-consistency,63,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_63_output.txt
+COT0_self-consistency,64,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_64_output.txt
+COT0_self-consistency,65,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_65_output.txt
+COT0_self-consistency,66,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_66_output.txt
+COT0_self-consistency,67,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_67_output.txt
+COT0_self-consistency,68,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_68_output.txt
+COT0_self-consistency,69,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_69_output.txt
+COT0_self-consistency,70,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_70_output.txt
+COT0_self-consistency,71,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_71_output.txt
+COT0_self-consistency,72,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_72_output.txt
+COT0_self-consistency,73,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_73_output.txt
+COT0_self-consistency,74,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_74_output.txt
+COT0_self-consistency,75,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_75_output.txt
+COT0_self-consistency,76,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_76_output.txt
+COT0_self-consistency,77,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_77_output.txt
+COT0_self-consistency,78,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_78_output.txt
+COT0_self-consistency,79,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_79_output.txt
+COT0_self-consistency,80,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_80_output.txt
+COT0_self-consistency,81,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_81_output.txt
+COT0_self-consistency,82,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_82_output.txt
+COT0_self-consistency,83,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_83_output.txt
+COT0_self-consistency,84,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_84_output.txt
+COT0_self-consistency,85,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_85_output.txt
+COT0_self-consistency,86,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_86_output.txt
+COT0_self-consistency,87,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_87_output.txt
+COT0_self-consistency,88,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_88_output.txt
+COT0_self-consistency,89,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_89_output.txt
+COT0_self-consistency,90,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_90_output.txt
+COT0_self-consistency,91,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_91_output.txt
+COT0_self-consistency,92,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_92_output.txt
+COT0_self-consistency,93,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_93_output.txt
+COT0_self-consistency,94,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_94_output.txt
+COT0_self-consistency,95,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_95_output.txt
+COT0_self-consistency,96,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_96_output.txt
+COT0_self-consistency,97,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_97_output.txt
+COT0_self-consistency,98,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_98_output.txt
+COT0_self-consistency,99,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_99_output.txt
+COT0_self-consistency,100,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_100_output.txt
+COT0_self-consistency,101,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_101_output.txt
+COT0_self-consistency,102,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_102_output.txt
+COT0_self-consistency,103,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_103_output.txt
+COT0_self-consistency,104,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_104_output.txt
+COT0_self-consistency,105,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_105_output.txt
+COT0_self-consistency,106,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_106_output.txt
+COT0_self-consistency,107,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_107_output.txt
+COT0_self-consistency,108,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_108_output.txt
+COT0_self-consistency,109,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_109_output.txt
+COT0_self-consistency,110,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_110_output.txt
+COT0_self-consistency,111,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_111_output.txt
+COT0_self-consistency,112,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_112_output.txt
+COT0_self-consistency,113,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_113_output.txt
+COT0_self-consistency,114,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_114_output.txt
+COT0_self-consistency,115,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_115_output.txt
+COT0_self-consistency,116,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_116_output.txt
+COT0_self-consistency,117,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_117_output.txt
+COT0_self-consistency,118,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_118_output.txt
+COT0_self-consistency,119,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_119_output.txt
+COT0_self-consistency,120,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_120_output.txt
+COT0_self-consistency,121,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_121_output.txt
+COT0_self-consistency,122,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_122_output.txt
+COT0_self-consistency,123,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_123_output.txt
+COT0_self-consistency,124,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_124_output.txt
+COT0_self-consistency,125,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_125_output.txt
+COT0_self-consistency,126,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_126_output.txt
+COT0_self-consistency,127,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_127_output.txt
+COT0_self-consistency,128,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_128_output.txt
+COT0_self-consistency,129,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_129_output.txt
+COT0_self-consistency,130,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_130_output.txt
+COT0_self-consistency,131,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_131_output.txt
+COT0_self-consistency,132,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_132_output.txt
+COT0_self-consistency,133,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_133_output.txt
+COT0_self-consistency,134,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_134_output.txt
+COT0_self-consistency,135,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_135_output.txt
+COT0_self-consistency,136,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_136_output.txt
+COT0_self-consistency,137,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_137_output.txt
+COT0_self-consistency,138,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_138_output.txt
+COT0_self-consistency,139,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_139_output.txt
+COT0_self-consistency,140,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_140_output.txt
+COT0_self-consistency,141,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_141_output.txt
+COT0_self-consistency,142,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_142_output.txt
+COT0_self-consistency,143,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_143_output.txt
+COT0_self-consistency,144,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_144_output.txt
+COT0_self-consistency,145,gemini-2.5-pro,Has not been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_145_output.txt
+COT0_self-consistency,146,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_146_output.txt
+COT0_self-consistency,147,gemini-2.5-pro,Has been checked,../data/test_data/test_results_2026/sc/COT0_self_gemini-2.5-pro\gemini-2.5-pro_147_output.txt
+Total analysis time: 8619.07 seconds (143.65 minutes)
