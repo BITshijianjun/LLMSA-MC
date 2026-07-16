@@ -1,0 +1,147 @@
+1:0
+2:0
+3:0
+4:0
+5:return value of mfd_add_devices is the critical variable
+6:return value of devm_iio_trigger_alloc is the critical variable
+7:0
+8:return value of of_match_device is the critical variable
+9:return value of of_match_device is the critical variable
+10:return value of of_match_device is the critical variable
+11:return value of of_match_device is the critical variable
+12:0
+13:return value of of_match_device is the critical variable
+14:0
+15:0
+16:0
+17:0
+18:0
+19:return value of of_get_phy_mode is the critical variable
+20:return value of of_get_phy_mode is the critical variable
+21:return value of drm_universal_plane_init is the critical variable
+22:return value of hid_hw_open is the critical variable
+23:0
+24:return value of mgt_get_request is the critical variable
+25:return value of myri10ge_send_cmd is the critical variable
+26:return value of pci_ioremap_bar is the critical variable
+27:return value of pci_find_ext_capability is the critical variable
+28:return value of of_device_get_match_data is the critical variable
+29:0
+30:0
+31:0
+32:0
+33:0
+34:0
+35:0
+36:0
+37:return value of of_match_device is the critical variable
+38:return value of regmap_write is the critical variable
+39:0
+40:0
+41:return value of usb_submit_urb is the critical variable
+42:return value of usb_submit_urb is the critical variable
+43:return value of usb_submit_urb is the critical variable
+44:return value of usb_submit_urb is the critical variable
+45:return value of usb_submit_urb is the critical variable
+46:return value of usb_submit_urb is the critical variable
+47:0
+48:return value of kmemdup is the critical variable
+49:return value of i2c_new_device is the critical variable
+50:return value of kmemdup is the critical variable
+51:return value of regmap_read is the critical variable
+52:return value of i2c_smbus_write_byte_data is the critical variable
+53:return value of kmemdup is the critical variable
+54:0
+55:return value of vmalloc is the critical variable
+56:0
+57:return value of of_match_device is the critical variable
+58:0
+59:return value of __get_free_pages is the critical variable
+60:return value of __get_free_pages is the critical variable
+61:0
+62:0
+63:return value of i2c_smbus_write_byte_data is the critical variable
+64:0
+65:0
+66:0
+67:0
+68:return value of usb_autopm_get_interface is the critical variable
+69:return value of usb_alloc_urb is the critical variable
+70:return value of kmemdup is the critical variable
+71:0
+72:return value of ioremap_nocache is the critical variable
+73:return value of securityfs_create_file is the critical variable
+74:return value of acpi_evaluate_dsm is the critical variable
+75:0
+76:return value of of_match_device is the critical variable
+77:0
+78:return value of kmemdup is the critical variable
+79:return value of idr_find is the critical variable
+80:return value of kmemdup is the critical variable
+81:return value of mtd_read is the critical variable
+82:0
+83:return value of iscsi_lookup_endpoint is the critical variable
+84:return value of idr_alloc is the critical variable
+85:return value of of_match_device is the critical variable
+86:0
+87:return value of snd_soc_params_to_frame_size is the critical variable
+88:return value of kmemdup is the critical variable
+89:return value of ov965x_write is the critical variable
+90:return value of kmemdup is the critical variable
+91:0
+92:return value of kmemdup is the critical variable
+93:0
+94:return value of platform_device_alloc is the critical variable
+95:return value of usb_submit_urb is the critical variable
+96:return value of idr_alloc is the critical variable
+97:0
+98:0
+99:return value of usb_submit_urb is the critical variable
+100:0
+101:return value of of_match_device is the critical variable
+102:return value of usb_submit_urb is the critical variable
+103:0
+104:0
+105:return value of usb_alloc_coherent is the critical variable
+106:return value of i2c_smbus_write_byte_data is the critical variable
+107:return value of kmemdup is the critical variable
+108:0
+109:0
+110:0
+111:return value of md_register_thread is the critical variable
+112:0
+113:0
+114:0
+115:0
+116:0
+117:0
+118:0
+119:0
+120:0
+121:0
+122:0
+123:return value of dma_pool_create is the critical variable
+124:return value of genlmsg_put is the critical variable
+125:0
+126:0
+127:return value of of_device_get_match_data is the critical variable
+128:0
+129:0
+130:return value of usb_alloc_urb is the critical variable
+131:0
+132:0
+133:0
+134:return value of dma_pool_create is the critical variable
+135:0
+136:0
+137:return value of kmemdup is the critical variable
+138:0
+139:0
+140:0
+141:return value of usb_submit_urb is the critical variable
+142:return value of ttm_bo_kmap is the critical variable
+143:0
+144:return value of mfd_add_devices is the critical variable
+145:return value of device_create_file is the critical variable
+146:0
+147:return value of __get_free_pages is the critical variable

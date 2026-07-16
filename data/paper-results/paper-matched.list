@@ -1,0 +1,256 @@
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/intel/ixgbevf/vf.c ; vf.c ; 511 ; ixgbevf_write_msg_read_ack(hw, msgbuf, msgbuf, IXGBE_VFMAILBOX_SIZE);
+x86 ; ../../linux-4.20-rc5/arch/x86/hyperv/hv_init.c ; hv_init.c ; 107 ; *input_arg = page_address(alloc_page(GFP_KERNEL));
+x86 ; ../../linux-4.20-rc5/arch/x86/platform/uv/tlb_uv.c ; tlb_uv.c ; 2013 ; smaster->thp = kmalloc_node(hpsz, GFP_KERNEL, smaster->osnode);
+char ; ../../linux-4.20-rc5/drivers/char/hpet.c ; hpet.c ; 978 ; hdp->hd_address = ioremap(addr.address.minimum, addr.address.address_length);
+firmware ; ../../linux-4.20-rc5/drivers/firmware/arm_scmi/driver.c ; driver.c ; 711 ; cinfo = idr_find(&info->tx_idr, SCMI_PROTOCOL_BASE);
+gpio ; ../../linux-4.20-rc5/drivers/gpio/gpio-exar.c ; gpio-exar.c ; 150 ; index = ida_simple_get(&ida_index, 0, 0, GFP_KERNEL);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/amd/amdkfd/kfd_crat.c ; kfd_crat.c ; 404 ; props2 = kmemdup(props, sizeof(*props2), GFP_KERNEL);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/i915/i915_gpu_error.c ; i915_gpu_error.c ; 230 ; c->tmp = (void *)__get_free_page(GFP_ATOMIC | __GFP_NOWARN);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/radeon/radeon_display.c ; radeon_display.c ; 679 ; radeon_crtc->flip_queue = alloc_workqueue("radeon-crtc", WQ_HIGHPRI, 0);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/vkms/vkms_crtc.c ; vkms_crtc.c ; 227 ; vkms_out->crc_workq = alloc_ordered_workqueue("vkms_crc_workq", 0);
+hid ; ../../linux-4.20-rc5/drivers/hid/hid-logitech-hidpp.c ; hid-logitech-hidpp.c ; 1954 ; data->wq = create_singlethread_workqueue("hidpp-ff-sendqueue");
+iio ; ../../linux-4.20-rc5/drivers/iio/adc/max9611.c ; max9611.c ; 531 ; of_match_device(max9611_of_table, &client->dev);
+iio ; ../../linux-4.20-rc5/drivers/iio/adc/mxs-lradc-adc.c ; mxs-lradc-adc.c ; 466 ; trig = devm_iio_trigger_alloc(&iio->dev, "%s-dev%i", iio->name,
+iio ; ../../linux-4.20-rc5/drivers/iio/magnetometer/hmc5843_i2c.c ; hmc5843_i2c.c ; 62 ; devm_regmap_init_i2c(cli, &hmc5843_i2c_regmap_config),
+iio ; ../../linux-4.20-rc5/drivers/iio/magnetometer/hmc5843_spi.c ; hmc5843_spi.c ; 62 ; 
+infiniband ; ../../linux-4.20-rc5/drivers/infiniband/hw/i40iw/i40iw_cm.c ; i40iw_cm.c ; 3257 ; cm_core->event_wq = alloc_ordered_workqueue("iwewq",
+infiniband ; ../../linux-4.20-rc5/drivers/infiniband/hw/i40iw/i40iw_cm.c ; i40iw_cm.c ; 3260 ; cm_core->disconn_wq = alloc_ordered_workqueue("iwdwq",
+input ; ../../linux-4.20-rc5/drivers/input/misc/pm8xxx-vibrator.c ; pm8xxx-vibrator.c ; 198 ; regs = of_device_get_match_data(&pdev->dev);
+isdn ; ../../linux-4.20-rc5/drivers/isdn/hardware/mISDN/hfcpci.c ; hfcpci.c ; 2034 ; hc->hw.pci_io = ioremap((ulong) hc->hw.pci_io, 256);
+isdn ; ../../linux-4.20-rc5/drivers/isdn/hardware/mISDN/hfcsusb.c ; hfcsusb.c ; 265 ; phi = kzalloc(sizeof(struct ph_info) +
+isdn ; ../../linux-4.20-rc5/drivers/isdn/hardware/mISDN/mISDNinfineon.c ; mISDNinfineon.c ; 716 ; hw->addr.p = ioremap(hw->addr.start, hw->addr.size);
+leds ; ../../linux-4.20-rc5/drivers/leds/leds-pca9532.c ; leds-pca9532.c ; 531 ; devid = (int)(uintptr_t)of_match_device(
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 1449 ; STV090x_WRITE_DEMOD(state, RTCS2, 0x68);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 1452 ; STV090x_WRITE_DEMOD(state, RTCS2, 0x44);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 1456 ; STV090x_WRITE_DEMOD(state, CARCFG, 0x46);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 2229 ; STV090x_WRITE_DEMOD(state, DMDISTATE, 0x1c);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 2607 ; STV090x_WRITE_DEMOD(state, SFRSTEP, 0x5c);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 2913 ; STV090x_WRITE_DEMOD(state, ACLC2S2Q, aclc);
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 2957 ; STV090x_WRITE_DEMOD(state, ERRCTRL1, 0x67); /* PER */
+media ; ../../linux-4.20-rc5/drivers/media/dvb-frontends/stv090x.c ; stv090x.c ; 2975 ; STV090x_WRITE_DEMOD(state, SFRSTEP, 0x00);
+media ; ../../linux-4.20-rc5/drivers/media/platform/davinci/vpss.c ; vpss.c ; 520 ; oper_cfg.vpss_regs_base2 = ioremap(VPSS_CLK_CTRL, 4);
+media ; ../../linux-4.20-rc5/drivers/media/platform/rcar-vin/rcar-core.c ; rcar-core.c ; 267 ; match = of_match_node(vin->dev->driver->of_match_table,
+media ; ../../linux-4.20-rc5/drivers/media/platform/renesas-ceu.c ; renesas-ceu.c ; 1684 ; ceu_data = of_match_device(ceu_of_match, dev)->data;
+media ; ../../linux-4.20-rc5/drivers/media/platform/rockchip/rga/rga.c ; rga.c ; 894 ; (unsigned int *)__get_free_pages(GFP_KERNEL | __GFP_ZERO, 3);
+media ; ../../linux-4.20-rc5/drivers/media/platform/rockchip/rga/rga.c ; rga.c ; 896 ; (unsigned int *)__get_free_pages(GFP_KERNEL | __GFP_ZERO, 3);
+media ; ../../linux-4.20-rc5/drivers/media/platform/rockchip/rga/rga.c ; rga.c ; 910 ; return 0;
+media ; ../../linux-4.20-rc5/drivers/media/platform/rockchip/rga/rga.c ; rga.c ; 875 ; goto unreg_video_dev;
+media ; ../../linux-4.20-rc5/drivers/media/platform/rockchip/rga/rga.c ; rga.c ; 915 ; video_unregister_device(rga->vfd);
+media ; ../../linux-4.20-rc5/drivers/media/platform/video-mux.c ; video-mux.c ; 400 ; vmux->pads = devm_kcalloc(dev, num_pads, sizeof(*vmux->pads),
+media ; ../../linux-4.20-rc5/drivers/media/platform/video-mux.c ; video-mux.c ; 402 ; vmux->format_mbus = devm_kcalloc(dev, num_pads,
+media ; ../../linux-4.20-rc5/drivers/media/usb/usbvision/usbvision-core.c ; usbvision-core.c ; 2301 ; usb_alloc_coherent(usbvision->dev,
+memstick ; ../../linux-4.20-rc5/drivers/memstick/core/ms_block.c ; ms_block.c ; 2141 ; msb->io_queue = alloc_ordered_workqueue("ms_block", WQ_MEM_RECLAIM);
+mfd ; ../../linux-4.20-rc5/drivers/mfd/sm501.c ; sm501.c ; 1145 ; lookup = devm_kzalloc(&pdev->dev,
+mmc ; ../../linux-4.20-rc5/drivers/mmc/host/mmc_spi.c ; mmc_spi.c ; 821 ; status = spi_sync_locked(spi, &host->m);
+net ; ../../linux-4.20-rc5/drivers/net/can/spi/mcp251x.c ; mcp251x.c ; 963 ; priv->wq = alloc_workqueue("mcp251x_wq", WQ_FREEZABLE | WQ_MEM_RECLAIM,
+net ; ../../linux-4.20-rc5/drivers/net/dsa/lan9303-core.c ; lan9303-core.c ; 1081 ; res =  regmap_write(chip->regmap,
+net ; ../../linux-4.20-rc5/drivers/net/dsa/lan9303-core.c ; lan9303-core.c ; 1074 ; res =  lan9303_phy_write(ds, port, MII_BMCR, ctl);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/8390/pcnet_cs.c ; pcnet_cs.c ; 1424 ; info->base = ioremap(link->resource[3]->start,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/8390/pcnet_cs.c ; pcnet_cs.c ; 290 ; virt = ioremap(link->resource[2]->start,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/liquidio/lio_main.c ; lio_main.c ; 1194 ; octeon_alloc_soft_command(oct, OCTNET_CMD_SIZE,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/liquidio/lio_vf_main.c ; lio_vf_main.c ; 1961 ; octeon_alloc_soft_command(octeon_dev, data_size,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/liquidio/lio_vf_main.c ; lio_vf_main.c ; 612 ; octeon_alloc_soft_command(oct, OCTNET_CMD_SIZE,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/liquidio/lio_core.c ; lio_core.c ; 1213 ; 
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/liquidio/lio_core.c ; lio_core.c ; 1685 ; sizeof(struct oct_nic_seapi_resp), 0);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/thunder/nicvf_main.c ; nicvf_main.c ; 2264 ; nicvf_rx_mode_wq = alloc_ordered_workqueue("nicvf_generic",
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/fujitsu/fmvj18x_cs.c ; fmvj18x_cs.c ; 549 ; base = ioremap(link->resource[2]->start, resource_size(link->resource[2]));
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/intel/fm10k/fm10k_main.c ; fm10k_main.c ; 42 ; fm10k_workqueue = alloc_workqueue("%s", WQ_MEM_RECLAIM, 0,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/mscc/ocelot_board.c ; ocelot_board.c ; 256 ; ocelot->ports = devm_kcalloc(&pdev->dev, ocelot->num_phys_ports,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/qlogic/qla3xxx.c ; qla3xxx.c ; 3888 ; qdev->workqueue = create_singlethread_workqueue(ndev->name);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/qlogic/qlge/qlge_main.c ; qlge_main.c ; 4682 ; qdev->workqueue = alloc_ordered_workqueue("%s", WQ_MEM_RECLAIM,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/renesas/sh_eth.c ; sh_eth.c ; 3133 ; pdata->phy_interface = of_get_phy_mode(np);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/renesas/ravb_main.c ; ravb_main.c ; 1996 ; set |= APSR_DM_TDM;
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/rocker/rocker_main.c ; rocker_main.c ; 2799 ; switchdev_work->fdb_info.addr = kzalloc(ETH_ALEN, GFP_ATOMIC);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/stmicro/stmmac/dwmac-dwc-qos-eth.c ; dwmac-dwc-qos-eth.c ; 487 ; data = of_device_get_match_data(&pdev->dev);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/stmicro/stmmac/dwmac-sun8i.c ; dwmac-sun8i.c ; 1150 ; plat_dat->interface = of_get_phy_mode(dev->of_node);
+net ; ../../linux-4.20-rc5/drivers/net/fjes/fjes_main.c ; fjes_main.c ; 1254 ; adapter->txrx_wq = alloc_workqueue(DRV_NAME "/txrx", WQ_MEM_RECLAIM, 0);
+net ; ../../linux-4.20-rc5/drivers/net/fjes/fjes_main.c ; fjes_main.c ; 1255 ; adapter->control_wq = alloc_workqueue(DRV_NAME "/control",
+net ; ../../linux-4.20-rc5/drivers/net/hyperv/netvsc_drv.c ; netvsc_drv.c ; 1377 ; pcpu_sum = kvmalloc_array(num_possible_cpus(),
+net ; ../../linux-4.20-rc5/drivers/net/ieee802154/adf7242.c ; adf7242.c ; 1269 ; lp->wqueue = alloc_ordered_workqueue(dev_name(&spi->dev),
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 645 ; &rtlpriv->works.ps_work,
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 646 ; MSECS(5));
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 653 ; if (changed & IEEE80211_CONF_CHANGE_RETRY_LIMITS) {
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 662 ; mac->retry_short = hw->conf.long_frame_max_tx_count;
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 689 ; /*
+net ; ../../linux-4.20-rc5/drivers/net/wireless/realtek/rtlwifi/core.c ; core.c ; 714 ; PRIME_CHNL_OFFSET_UPPER;
+net ; ../../linux-4.20-rc5/drivers/net/wireless/intel/iwlegacy/3945-mac.c ; 3945-mac.c ; 3405 ; il->workqueue = create_singlethread_workqueue(DRV_NAME);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/intel/iwlegacy/4965-mac.c ; 4965-mac.c ; 6241 ; il->workqueue = create_singlethread_workqueue(DRV_NAME);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/marvell/mwifiex/cmdevt.c ; cmdevt.c ; 342 ; dev_alloc_skb(sizeof(struct mwifiex_opt_sleep_confirm)
+net ; ../../linux-4.20-rc5/drivers/net/wireless/ray_cs.c ; ray_cs.c ; 395 ; local->sram = ioremap(link->resource[2]->start,
+net ; ../../linux-4.20-rc5/drivers/net/wireless/ray_cs.c ; ray_cs.c ; 409 ; local->rmem = ioremap(link->resource[3]->start,
+net ; ../../linux-4.20-rc5/drivers/net/wireless/ray_cs.c ; ray_cs.c ; 423 ; local->amem = ioremap(link->resource[4]->start,
+net ; ../../linux-4.20-rc5/drivers/net/wimax/i2400m/fw.c ; fw.c ; 600 ; goto error_cmd_send;
+net ; ../../linux-4.20-rc5/drivers/net/wimax/i2400m/fw.c ; fw.c ; 744 ; }
+net ; ../../linux-4.20-rc5/drivers/net/wimax/i2400m/fw.c ; fw.c ; 448 ; * @flags: I2400M_BM_CMD_* flags we called the command with.
+net ; ../../linux-4.20-rc5/drivers/net/wimax/i2400m/fw.c ; fw.c ; 562 ; *     native endianess.
+net ; ../../linux-4.20-rc5/drivers/net/wimax/i2400m/fw.c ; fw.c ; 1623 ; }
+staging ; ../../linux-4.20-rc5/drivers/staging/rtlwifi/rtl8822be/fw.c ; fw.c ; 745 ; totalpacketlen);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/marvell/mwifiex/cmdevt.c ; cmdevt.c ; 342 ; dev_alloc_skb(sizeof(struct mwifiex_opt_sleep_confirm)
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/qlogic/qlcnic/qlcnic_ethtool.c ; qlcnic_ethtool.c ; 1050 ; skb = netdev_alloc_skb(adapter->netdev, QLCNIC_ILB_PKT_SIZE);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/rsi/rsi_91x_mac80211.c ; rsi_91x_mac80211.c ; 199 ; channels = kmalloc(sizeof(rsi_2ghz_channels), GFP_KERNEL);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/rsi/rsi_91x_mac80211.c ; rsi_91x_mac80211.c ; 208 ; channels = kmalloc(sizeof(rsi_5ghz_channels), GFP_KERNEL);
+nvdimm ; ../../linux-4.20-rc5/drivers/nvdimm/btt_devs.c ; btt_devs.c ; 200 ; uuid = kmemdup(uuid, 16, GFP_KERNEL);
+nvdimm ; ../../linux-4.20-rc5/drivers/nvdimm/btt_devs.c ; btt_devs.c ; 217 ; struct device *nd_btt_create(struct nd_region *nd_region)
+nvdimm ; ../../linux-4.20-rc5/drivers/nvdimm/namespace_devs.c ; namespace_devs.c ; 2250 ; nsblk->alt_name = kmemdup(name, NSLABEL_NAME_LEN,
+pci ; ../../linux-4.20-rc5/drivers/pci/controller/pci-tegra.c ; pci-tegra.c ; 1552 ; msi->pages = __get_free_pages(GFP_KERNEL, 0);
+pci ; ../../linux-4.20-rc5/drivers/pci/controller/pcie-rcar.c ; pcie-rcar.c ; 931 ; msi->pages = __get_free_pages(GFP_KERNEL, 0);
+pci ; ../../linux-4.20-rc5/drivers/pci/controller/pcie-xilinx.c ; pcie-xilinx.c ; 343 ; port->msi_pages = __get_free_pages(GFP_KERNEL, 0);
+pci ; ../../linux-4.20-rc5/drivers/pci/endpoint/functions/pci-epf-test.c ; pci-epf-test.c ; 571 ; kpcitest_workqueue = alloc_workqueue("kpcitest",
+pinctrl ; ../../linux-4.20-rc5/drivers/pinctrl/intel/pinctrl-baytrail.c ; pinctrl-baytrail.c ; 1711 ; vg->saved_context = devm_kcalloc(&vg->pdev->dev, gc->ngpio,
+pinctrl ; ../../linux-4.20-rc5/drivers/pinctrl/pinctrl-axp209.c ; pinctrl-axp209.c ; 366 ; pctl->funcs[i].groups = devm_kcalloc(&pdev->dev,
+power ; ../../linux-4.20-rc5/drivers/power/supply/charger-manager.c ; charger-manager.c ; 2006 ; cm_wq = create_freezable_workqueue("charger_manager");
+rapidio ; ../../linux-4.20-rc5/drivers/rapidio/rio_cm.c ; rio_cm.c ; 2147 ; cm->rx_wq = create_workqueue(DRV_NAME "/rxq");
+scsi ; ../../linux-4.20-rc5/drivers/scsi/cxgbi/cxgb4i/cxgb4i.c ; cxgb4i.c ; 619 ; skb = alloc_wr(flowclen, 0, GFP_ATOMIC);
+scsi ; ../../linux-4.20-rc5/drivers/scsi/qla4xxx/ql4_os.c ; ql4_os.c ; 3206 ; ep = iscsi_lookup_endpoint(transport_fd);
+scsi ; ../../linux-4.20-rc5/drivers/scsi/ufs/ufs-hisi.c ; ufs-hisi.c ; 546 ; host->rst  = devm_reset_control_get(dev, "rst");
+spi ; ../../linux-4.20-rc5/drivers/spi/spi-s3c64xx.c ; spi-s3c64xx.c ; 294 ; desc = dmaengine_prep_slave_sg(dma->ch, sgt->sgl, sgt->nents,
+spi ; ../../linux-4.20-rc5/drivers/spi/spi-topcliff-pch.c ; spi-topcliff-pch.c ; 1304 ; dma->tx_buf_virt = dma_alloc_coherent(&board_dat->pdev->dev,
+spi ; ../../linux-4.20-rc5/drivers/spi/spi-topcliff-pch.c ; spi-topcliff-pch.c ; 1307 ; dma->rx_buf_virt = dma_alloc_coherent(&board_dat->pdev->dev,
+staging ; ../../linux-4.20-rc5/drivers/staging/greybus/audio_manager.c ; audio_manager.c ; 47 ; id = ida_simple_get(&module_id, 0, 0, GFP_KERNEL);
+staging ; ../../linux-4.20-rc5/drivers/staging/rtlwifi/phydm/rtl_phydm.c ; rtl_phydm.c ; 182 ; kzalloc(sizeof(struct phy_dm_struct), GFP_KERNEL);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/property.c ; property.c ; 177 ; dir->uuid = kmemdup(&block[dir_offset], sizeof(*dir->uuid),
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/property.c ; property.c ; 550 ; property->value.data = kzalloc(size, GFP_KERNEL);
+tty ; ../../linux-4.20-rc5/drivers/tty/ipwireless/main.c ; main.c ; 115 ; ipw->common_memory = ioremap(p_dev->resource[2]->start,
+tty ; ../../linux-4.20-rc5/drivers/tty/ipwireless/main.c ; main.c ; 135 ; ipw->attr_memory = ioremap(p_dev->resource[3]->start,
+tty ; ../../linux-4.20-rc5/drivers/tty/serial/8250/8250_lpss.c ; 8250_lpss.c ; 175 ; chip->regs = pci_ioremap_bar(pdev, 1);
+tty ; ../../linux-4.20-rc5/drivers/tty/serial/atmel_serial.c ; atmel_serial.c ; 1285 ; desc = dmaengine_prep_dma_cyclic(atmel_port->chan_rx,
+tty ; ../../linux-4.20-rc5/drivers/tty/serial/mxs-auart.c ; mxs-auart.c ; 1688 ; s->port.membase = ioremap(r->start, resource_size(r));
+usb ; ../../linux-4.20-rc5/drivers/usb/host/u132-hcd.c ; u132-hcd.c ; 3203 ; workqueue = create_singlethread_workqueue("u132");
+usb ; ../../linux-4.20-rc5/drivers/usb/storage/alauda.c ; alauda.c ; 438 ; MEDIA_INFO(us).pba_to_lba = kcalloc(num_zones, sizeof(u16*), GFP_NOIO);
+usb ; ../../linux-4.20-rc5/drivers/usb/storage/alauda.c ; alauda.c ; 439 ; MEDIA_INFO(us).lba_to_pba = kcalloc(num_zones, sizeof(u16*), GFP_NOIO);
+video ; ../../linux-4.20-rc5/drivers/video/fbdev/hgafb.c ; hgafb.c ; 287 ; hga_vram = ioremap(0xb0000, hga_vram_len);
+video ; ../../linux-4.20-rc5/drivers/video/fbdev/imsttfb.c ; imsttfb.c ; 1517 ; info->screen_base = (__u8 *)ioremap(addr, par->ramdac == IBM ?
+video ; ../../linux-4.20-rc5/drivers/video/fbdev/omap2/omapfb/dss/omapdss-boot-init.c ; omapdss-boot-init.c ; 113 ; new_compat = kmalloc(new_len, GFP_KERNEL);
+affs ; ../../linux-4.20-rc5/fs/affs/file.c ; file.c ; 940 ; ext_bh = affs_bread(sb, ext_key);
+btrfs ; ../../linux-4.20-rc5/fs/btrfs/extent-tree.c ; extent-tree.c ; 7042 ; cache = btrfs_lookup_block_group(fs_info, buf->start);
+ipv6 ; ../../linux-4.20-rc5/net/ipv6/netfilter/ip6t_srh.c ; ip6t_srh.c ; 212 ; psid = skb_header_pointer(skb, psidoff, sizeof(_psid), &_psid);
+ipv6 ; ../../linux-4.20-rc5/net/ipv6/netfilter/ip6t_srh.c ; ip6t_srh.c ; 225 ; nsid = skb_header_pointer(skb, nsidoff, sizeof(_nsid), &_nsid);
+ipv6 ; ../../linux-4.20-rc5/net/ipv6/netfilter/ip6t_srh.c ; ip6t_srh.c ; 235 ; lsid = skb_header_pointer(skb, lsidoff, sizeof(_lsid), &_lsid);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/datapath.c ; datapath.c ; 449 ; upcall = genlmsg_put(user_skb, 0, 0, &dp_packet_genl_family,
+smc ; ../../linux-4.20-rc5/net/smc/smc_ism.c ; smc_ism.c ; 290 ; smcd->event_wq = alloc_ordered_workqueue("ism_evt_wq-%s)",
+strparser ; ../../linux-4.20-rc5/net/strparser/strparser.c ; strparser.c ; 552 ; strp_wq = create_singlethread_workqueue("kstrp");
+security ; ../../linux-4.20-rc5/security/inode.c ; inode.c ; 339 ; lsm_dentry = securityfs_create_file("lsm", 0444, NULL, NULL,
+ceph ; ../../linux-4.20-rc5/net/ceph/osdmap.c ; osdmap.c ; 1900 ; dest->name = kmalloc(src->name_len + 1,
+isa ; ../../linux-4.20-rc5/sound/isa/sb/sb8.c ; sb8.c ; 113 ; acard->fm_res = request_region(0x388, 4, "SoundBlaster FM");
+pci ; ../../linux-4.20-rc5/sound/pci/echoaudio/echoaudio.c ; echoaudio.c ; 1956 ; ioremap_nocache(chip->dsp_registers_phys, sz);
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/cs43130.c ; cs43130.c ; 2324 ; cs43130->wq = create_singlethread_workqueue("cs43130_hp");
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/rt5645.c ; rt5645.c ; 3452 ; rt5645->eq_param = devm_kcalloc(component->dev,
+soc ; ../../linux-4.20-rc5/sound/soc/soc-pcm.c ; soc-pcm.c ; 1236 ; dpcm->debugfs_state = debugfs_create_u32(be->dai_link->name, 0644,
+md ; ../../linux-4.20-rc5/drivers/md/raid10.c ; raid10.c ; 3958 ; mddev->sync_thread = md_register_thread(md_do_sync, mddev,
+md ; ../../linux-4.20-rc5/drivers/md/raid5.c ; raid5.c ; 7399 ; mddev->sync_thread = md_register_thread(md_do_sync, mddev,
+usb ; ../../linux-4.20-rc5/sound/usb/usx2y/usb_stream.c ; usb_stream.c ; 106 ; sk->inurb[u] = usb_alloc_urb(sk->n_o_ps, GFP_KERNEL);
+usb ; ../../linux-4.20-rc5/sound/usb/usx2y/usb_stream.c ; usb_stream.c ; 107 ; sk->outurb[u] = usb_alloc_urb(sk->n_o_ps, GFP_KERNEL);
+ata ; ../../linux-4.20-rc5/drivers/ata/sata_dwc_460ex.c ; sata_dwc_460ex.c ; 1055 ; dmaengine_submit(desc);
+block ; ../../linux-4.20-rc5/drivers/block/nbd.c ; nbd.c ; 2117 ; nla_nest_end(reply, dev_list);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/broadcom/genet/bcmmii.c ; bcmmii.c ; 217 ; phy_set_max_speed(phydev, SPEED_100);
+slimbus ; ../../linux-4.20-rc5/drivers/slimbus/qcom-ngd-ctrl.c ; qcom-ngd-ctrl.c ; 1351 ; platform_device_add(ngd->pdev);
+ncsi ; ../../linux-4.20-rc5/net/ncsi/ncsi-netlink.c ; ncsi-netlink.c ; 253 ; nla_nest_cancel(skb, attr);
+ncsi ; ../../linux-4.20-rc5/net/ncsi/ncsi-netlink.c ; ncsi-netlink.c ; 257 ; nla_nest_end(skb, attr);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/conntrack.c ; conntrack.c ; 2146 ; nla_nest_end(reply, nla_reply);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/datapath.c ; datapath.c ; 466 ; nla_nest_end(user_skb, nla);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/datapath.c ; datapath.c ; 475 ; nla_nest_end(user_skb, nla);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/datapath.c ; datapath.c ; 477 ; nla_nest_cancel(user_skb, nla);
+tipc ; ../../linux-4.20-rc5/net/tipc/group.c ; group.c ; 942 ; nla_nest_end(skb, group);
+tipc ; ../../linux-4.20-rc5/net/tipc/group.c ; group.c ; 946 ; nla_nest_cancel(skb, group);
+tipc ; ../../linux-4.20-rc5/net/tipc/socket.c ; socket.c ; 3226 ; nla_nest_end(skb, nest);
+tipc ; ../../linux-4.20-rc5/net/tipc/socket.c ; socket.c ; 3231 ; nla_nest_cancel(skb, nest);
+extcon ; ../../linux-4.20-rc5/drivers/extcon/extcon-axp288.c ; extcon-axp288.c ; 145 ; ret = regmap_read(info->regmap, AXP288_PS_BOOT_REASON_REG, &val);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/switch.c ; switch.c ; 1325 ; sw->uuid = kmemdup(uuid, sizeof(uuid), GFP_KERNEL);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/xdomain.c ; xdomain.c ; 540 ; xw->pkg = kmemdup(hdr, size, GFP_KERNEL);
+usb ; ../../linux-4.20-rc5/drivers/usb/misc/usb251xb.c ; usb251xb.c ; 600 ; const struct of_device_id *of_id = of_match_device(usb251xb_of_match,
+tty ; ../../linux-4.20-rc5/drivers/tty/serial/max310x.c ; max310x.c ; 1421 ; of_match_device(max310x_dt_ids, &spi->dev);
+tty ; ../../linux-4.20-rc5/drivers/tty/serial/mvebu-uart.c ; mvebu-uart.c ; 791 ; const struct of_device_id *match = of_match_device(mvebu_uart_of_match,
+mtd ; ../../linux-4.20-rc5/drivers/mtd/nand/raw/vf610_nfc.c ; vf610_nfc.c ; 856 ; of_id = of_match_device(vf610_nfc_dt_ids, &pdev->dev);
+mfd ; ../../linux-4.20-rc5/drivers/mfd/mc13xxx-i2c.c ; mc13xxx-i2c.c ; 82 ; of_match_device(mc13xxx_dt_ids, &client->dev);
+pinctrl ; ../../linux-4.20-rc5/drivers/pinctrl/berlin/berlin-bg4ct.c ; berlin-bg4ct.c ; 453 ; of_match_device(berlin4ct_pinctrl_match, &pdev->dev);
+pinctrl ; ../../linux-4.20-rc5/drivers/pinctrl/berlin/pinctrl-as370.c ; pinctrl-as370.c ; 334 ; of_match_device(as370_pinctrl_match, &pdev->dev);
+mfd ; ../../linux-4.20-rc5/drivers/mfd/mc13xxx-spi.c ; mc13xxx-spi.c ; 160 ; of_match_device(mc13xxx_dt_ids, &spi->dev);
+firmware ; ../../linux-4.20-rc5/drivers/firmware/arm_scmi/driver.c ; driver.c ; 801 ; desc = of_match_device(scmi_of_match, dev)->data;
+mmc ; ../../linux-4.20-rc5/drivers/mmc/host/dw_mmc-exynos.c ; dw_mmc-exynos.c ; 556 ; match = of_match_node(dw_mci_exynos_match, pdev->dev.of_node);
+mmc ; ../../linux-4.20-rc5/drivers/mmc/host/dw_mmc-k3.c ; dw_mmc-k3.c ; 461 ; match = of_match_node(dw_mci_k3_match, pdev->dev.of_node);
+mmc ; ../../linux-4.20-rc5/drivers/mmc/host/dw_mmc-pltfm.c ; dw_mmc-pltfm.c ; 84 ; match = of_match_node(dw_mci_pltfm_match, pdev->dev.of_node);
+pci ; ../../linux-4.20-rc5/drivers/pci/controller/pci-host-generic.c ; pci-host-generic.c ; 85 ; of_id = of_match_node(gen_pci_of_match, pdev->dev.of_node);
+scsi ; ../../linux-4.20-rc5/drivers/scsi/ufs/tc-dwc-g210-pltfrm.c ; tc-dwc-g210-pltfrm.c ; 63 ; of_id = of_match_node(tc_dwc_g210_pltfm_match, dev->of_node);
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/sirf-audio-codec.c ; sirf-audio-codec.c ; 466 ; match = of_match_node(sirf_audio_codec_of_match, pdev->dev.of_node);
+slimbus ; ../../linux-4.20-rc5/drivers/slimbus/qcom-ngd-ctrl.c ; qcom-ngd-ctrl.c ; 1333 ; data = of_match_node(qcom_slim_ngd_dt_match, parent->of_node)->data;
+x86 ; ../../linux-4.20-rc5/arch/x86/kernel/hpet.c ; hpet.c ; 79 ; hpet_virt_address = ioremap_nocache(hpet_address, HPET_MMAP_SIZE);
+udf ; ../../linux-4.20-rc5/fs/udf/super.c ; super.c ; 575 ; uopt->nls_map = load_nls(args[0].from);
+nfc ; ../../linux-4.20-rc5/net/nfc/llcp_sock.c ; llcp_sock.c ; 726 ; llcp_sock->service_name = kmemdup(addr->service_name,
+scsi ; ../../linux-4.20-rc5/drivers/scsi/ufs/ufshcd.c ; ufshcd.c ; 1759 ; hba->clk_scaling.workq = create_singlethread_workqueue(wq_name);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/xdomain.c ; xdomain.c ; 771 ; svc->id = ida_simple_get(&xd->service_ids, 0, 0, GFP_KERNEL);
+scsi ; ../../linux-4.20-rc5/drivers/scsi/ufs/ufshcd.c ; ufshcd.c ; 1786 ; hba->clk_gating.clk_gating_workq = alloc_ordered_workqueue(wq_name,
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/icm.c ; icm.c ; 475 ; sw->uuid = kmemdup(uuid, sizeof(*uuid), GFP_KERNEL);
+fmc ; ../../linux-4.20-rc5/drivers/fmc/fmc-fakedev.c ; fmc-fakedev.c ; 283 ; fmc = kmemdup(&ff_template_fmc, sizeof(ff_template_fmc),
+usb ; ../../linux-4.20-rc5/drivers/usb/storage/sierra_ms.c ; sierra_ms.c ; 197 ; result = device_create_file(&us->pusb_intf->dev, &dev_attr_truinst);
+staging ; ../../linux-4.20-rc5/drivers/staging/vc04_services/interface/vchiq_arm/vchiq_2835_arm.c ; vchiq_2835_arm.c ; 212 ; state->platform_state = kzalloc(sizeof(*platform_state), GFP_KERNEL);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/property.c ; property.c ; 581 ; property->value.data = kzalloc(size, GFP_KERNEL);
+thunderbolt ; ../../linux-4.20-rc5/drivers/thunderbolt/property.c ; property.c ; 582 ; strcpy(property->value.text, text);
+x86 ; ../../linux-4.20-rc5/arch/x86/platform/uv/tlb_uv.c ; tlb_uv.c ; 2144 ; vp = kmalloc_array(nuvhubs, sizeof(struct uvhub_desc), GFP_KERNEL);
+x86 ; ../../linux-4.20-rc5/arch/x86/platform/uv/tlb_uv.c ; tlb_uv.c ; 2147 ; uvhub_mask = kzalloc((nuvhubs+7)/8, GFP_KERNEL);
+gpio ; ../../linux-4.20-rc5/drivers/gpio/gpio-aspeed.c ; gpio-aspeed.c ; 1227 ; devm_kzalloc(&pdev->dev, gpio->chip.ngpio, GFP_KERNEL);
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/rt5663.c ; rt5663.c ; 3472 ; rt5663->imp_table = devm_kzalloc(dev, table_size, GFP_KERNEL);
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/rt5663.c ; rt5663.c ; 3513 ; dev_err(&i2c->dev,
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/v3d/v3d_drv.c ; v3d_drv.c ; 103 ; ret = pm_runtime_get_sync(v3d->dev);
+net ; ../../linux-4.20-rc5/drivers/net/ieee802154/mcr20a.c ; mcr20a.c ; 534 ; ret = regmap_update_bits(lp->regmap_dar, DAR_PHY_CTRL1,
+net ; ../../linux-4.20-rc5/drivers/net/ieee802154/mcr20a.c ; mcr20a.c ; 541 ; ret = regmap_update_bits(lp->regmap_dar, DAR_PHY_CTRL2,
+net ; ../../linux-4.20-rc5/drivers/net/ieee802154/mcr20a.c ; mcr20a.c ; 546 ; ret = regmap_update_bits(lp->regmap_dar, DAR_PHY_CTRL1,
+media ; ../../linux-4.20-rc5/drivers/media/tuners/tda18250.c ; tda18250.c ; 705 ; ret = regmap_write_bits(dev->regmap, R46_CPUMP, 0x07, buf[2]);
+soc ; ../../linux-4.20-rc5/sound/soc/codecs/cs35l34.c ; cs35l34.c ; 263 ; ret = regmap_update_bits(priv->regmap, CS35L34_PWRCTL1,
+dma ; ../../linux-4.20-rc5/drivers/dma/ti/omap-dma.c ; omap-dma.c ; 1056 ; static struct dma_async_tx_descriptor *omap_dma_prep_dma_cyclic(
+firmware ; ../../linux-4.20-rc5/drivers/firmware/edd.c ; edd.c ; 279 ; edd_show_mbr_signature(struct edd_device *edev, char *buf)
+rtc ; ../../linux-4.20-rc5/drivers/rtc/rtc-ds1374.c ; rtc-ds1374.c ; 449 ; ret = i2c_smbus_write_byte_data(save_client, DS1374_REG_CR, cr);
+rtc ; ../../linux-4.20-rc5/drivers/rtc/rtc-rx8010.c ; rtc-rx8010.c ; 193 ; ret = i2c_smbus_write_byte_data(rx8010->client, RX8010_FLAG,
+mfd ; ../../linux-4.20-rc5/drivers/mfd/tps65010.c ; tps65010.c ; 431 ; status = i2c_smbus_write_byte_data(tps->client,
+usb ; ../../linux-4.20-rc5/drivers/usb/storage/realtek_cr.c ; realtek_cr.c ; 815 ; ret = usb_autopm_get_interface(us->pusb_intf);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/netronome/nfp/flower/lag_conf.c ; lag_conf.c ; 307 ; acti_netdevs = kmalloc_array(entry->slave_cnt,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/netronome/nfp/flower/lag_conf.c ; lag_conf.c ; 307 ; acti_netdevs = kmalloc_array(entry->slave_cnt,
+message ; ../../linux-4.20-rc5/drivers/message/fusion/mptctl.c ; mptctl.c ; 406 ; ii = wait_for_completion_timeout(&ioc->taskmgmt_cmds.done, timeout*HZ);
+message ; ../../linux-4.20-rc5/drivers/message/fusion/mptscsih.c ; mptscsih.c ; 1617 ; timeleft = wait_for_completion_timeout(&ioc->taskmgmt_cmds.done,
+message ; ../../linux-4.20-rc5/drivers/message/fusion/mptsas.c ; mptsas.c ; 4803 ; timeleft = wait_for_completion_timeout(&ioc->taskmgmt_cmds.done,
+misc ; ../../linux-4.20-rc5/drivers/misc/tifm_7xx1.c ; tifm_7xx1.c ; 280 ; timeout = wait_for_completion_timeout(&finish_resume, HZ);
+pci ; ../../linux-4.20-rc5/drivers/pci/controller/dwc/pcie-designware-host.c ; pcie-designware-host.c ; 309 ; page = alloc_page(GFP_KERNEL);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/virtio/virtgpu_kms.c ; virtgpu_kms.c ; 62 ; handle = idr_alloc(&vgdev->ctx_id_idr, NULL, 1, 0, 0);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/virtio/virtgpu_vq.c ; virtgpu_vq.c ; 48 ; handle = idr_alloc(&vgdev->resource_idr, NULL, 1, 0, GFP_NOWAIT);
+input ; ../../linux-4.20-rc5/drivers/input/touchscreen/usbtouchscreen.c ; usbtouchscreen.c ; 1076 ; ret = usb_submit_urb(priv->ack, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/iuu_phoenix.c ; iuu_phoenix.c ; 369 ; result = usb_submit_urb(port->write_urb, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/iuu_phoenix.c ; iuu_phoenix.c ; 177 ; result = usb_submit_urb(port->write_urb, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/iuu_phoenix.c ; iuu_phoenix.c ; 729 ; result = usb_submit_urb(port->read_urb, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/iuu_phoenix.c ; iuu_phoenix.c ; 389 ; result = usb_submit_urb(port->write_urb, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/iuu_phoenix.c ; iuu_phoenix.c ; 253 ; result = usb_submit_urb(port->read_urb, GFP_ATOMIC);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/kobil_sct.c ; kobil_sct.c ; 248 ; result = usb_submit_urb(port->interrupt_in_urb, GFP_KERNEL);
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/kobil_sct.c ; kobil_sct.c ; 339 ; result = usb_submit_urb(port->interrupt_out_urb,
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/kobil_sct.c ; kobil_sct.c ; 354 ; result = usb_submit_urb(port->interrupt_in_urb,
+usb ; ../../linux-4.20-rc5/drivers/usb/serial/kobil_sct.c ; kobil_sct.c ; 284 ; result = usb_submit_urb(port->interrupt_in_urb, GFP_ATOMIC);
+ncsi ; ../../linux-4.20-rc5/net/ncsi/ncsi-netlink.c ; ncsi-netlink.c ; 250 ; attr = nla_nest_start(skb, NCSI_ATTR_PACKAGE_LIST);
+openvswitch ; ../../linux-4.20-rc5/net/openvswitch/conntrack.c ; conntrack.c ; 2131 ; nla_reply = nla_nest_start(reply, OVS_CT_LIMIT_ATTR_ZONE_LIMIT);
+media ; ../../linux-4.20-rc5/drivers/media/usb/cx231xx/cx231xx-input.c ; cx231xx-input.c ; 91 ; dev->ir_i2c_client = i2c_new_device(
+dma ; ../../linux-4.20-rc5/drivers/dma/fsl-edma-common.c ; fsl-edma-common.c ; 540 ; fsl_chan->tcd_pool = dma_pool_create("tcd_pool", chan->device->dev,
+dma ; ../../linux-4.20-rc5/drivers/dma/coh901318_lli.c ; coh901318_lli.c ; 41 ; pool->dmapool = dma_pool_create("lli_pool", dev, size, align, 0);
+mtd ; ../../linux-4.20-rc5/drivers/mtd/nand/onenand/generic.c ; generic.c ; 69 ; err = mtd_device_register(&info->mtd, pdata ? pdata->parts : NULL,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/intel/e1000/e1000_hw.c ; e1000_hw.c ; 1046 ; e1000_write_phy_reg(hw, M88E1000_PHY_SPEC_CTRL, phy_data);
+mfd ; ../../linux-4.20-rc5/drivers/mfd/vx855.c ; vx855.c ; 104 ; ret = mfd_add_devices(&pdev->dev, -1, vx855_cells, ARRAY_SIZE(vx855_cells),
+mfd ; ../../linux-4.20-rc5/drivers/mfd/ab3100-core.c ; ab3100-core.c ; 926 ; err = mfd_add_devices(&client->dev, 0, ab3100_devs,
+crypto ; ../../linux-4.20-rc5/crypto/cryptd.c ; cryptd.c ; 745 ; err = crypto_shash_init(desc);
+hwmon ; ../../linux-4.20-rc5/drivers/hwmon/ad7418.c ; ad7418.c ; 90 ; i2c_smbus_read_word_swapped(client,
+hwmon ; ../../linux-4.20-rc5/drivers/hwmon/lm92.c ; lm92.c ; 135 ; i2c_smbus_read_word_swapped(client, regs[i]);
+scsi ; ../../linux-4.20-rc5/drivers/scsi/gdth.c ; gdth.c ; 5203 ; major = register_chrdev(0,"gdth", &gdth_fops);
+staging ; ../../linux-4.20-rc5/drivers/staging/vc04_services/bcm2835-camera/mmal-vchiq.c ; mmal-vchiq.c ; 1847 ; instance->bulk_scratch = vmalloc(PAGE_SIZE);
+fsi ; ../../linux-4.20-rc5/drivers/fsi/fsi-core.c ; fsi-core.c ; 1250 ; master->idx = ida_simple_get(&master_ida, 0, INT_MAX, GFP_KERNEL);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/chelsio/cxgb3/cxgb3_offload.c ; cxgb3_offload.c ; 1268 ; t->nofail_skb = alloc_skb(sizeof(struct cpl_tid_release), GFP_KERNEL);
+iio ; ../../linux-4.20-rc5/drivers/iio/adc/mxs-lradc-adc.c ; mxs-lradc-adc.c ; 470 ; iio_trigger_set_drvdata(trig, iio);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/myricom/myri10ge/myri10ge.c ; myri10ge.c ; 2287 ; status = myri10ge_send_cmd(mgp,
+slimbus ; ../../linux-4.20-rc5/drivers/slimbus/qcom-ngd-ctrl.c ; qcom-ngd-ctrl.c ; 1343 ; ngd->pdev = platform_device_alloc(QCOM_SLIM_NGD_DRV_NAME, id);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/intel/e1000/e1000_hw.c ; e1000_hw.c ; 141 ; ret_val = e1000_read_phy_reg(hw, 0x2F5B, &phy_saved_data);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/intel/e1000/e1000_hw.c ; e1000_hw.c ; 1043 ; e1000_read_phy_reg(hw, M88E1000_PHY_SPEC_CTRL, &phy_data);
+mtd ; ../../linux-4.20-rc5/drivers/mtd/bcm63xxpart.c ; bcm63xxpart.c ; 65 ; ret = mtd_read(master, BCM963XX_CFE_MAGIC_OFFSET, 8, &retlen,
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/vc4/vc4_plane.c ; vc4_plane.c ; 1011 ; ret = drm_universal_plane_init(dev, plane, 0,
+ext4 ; ../../linux-4.20-rc5/fs/ext4/super.c ; super.c ; 5866 ; err = ext4_handle_dirty_metadata(handle, NULL, bh);
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/oki-semi/pch_gbe/pch_gbe_main.c ; pch_gbe_main.c ; 1476 ; skb = netdev_alloc_skb(adapter->netdev, bufsz);
+net ; ../../linux-4.20-rc5/drivers/net/wireless/intersil/prism54/isl_ioctl.c ; isl_ioctl.c ; 190 ; j = mgt_get_request(priv, DOT11_OID_BSSFIND, 0, (void *) &bss, &r);
+gpu ; ../../linux-4.20-rc5/drivers/gpu/drm/ast/ast_mode.c ; ast_mode.c ; 1201 ; ret = ttm_bo_kmap(&bo->bo, 0, bo->bo.num_pages, &uobj_map);
+hid ; ../../linux-4.20-rc5/drivers/hid/wacom_sys.c ; wacom_sys.c ; 2351 ; error = hid_hw_open(hdev);
+media ; ../../linux-4.20-rc5/drivers/media/i2c/ov9650.c ; ov9650.c ; 609 ; ret = ov965x_write(ov965x, REG_COM8, reg);
+soc ; ../../linux-4.20-rc5/sound/soc/sti/sti_uniperif.c ; sti_uniperif.c ; 292 ; transfer_size = snd_soc_params_to_frame_size(params) / 32;
+media ; ../../linux-4.20-rc5/drivers/media/usb/em28xx/em28xx-cards.c ; em28xx-cards.c ; 3987 ; retval = media_device_register(dev->media_dev);
+usb ; ../../linux-4.20-rc5/drivers/usb/host/xhci-pci.c ; xhci-pci.c ; 269 ; obj = acpi_evaluate_dsm(ACPI_HANDLE(&dev->dev), &intel_dsm_guid, 3, 1,
+net ; ../../linux-4.20-rc5/drivers/net/ethernet/cavium/thunder/nic_main.c ; nic_main.c ; 1229 ; pos = pci_find_ext_capability(nic->pdev, PCI_EXT_CAP_ID_SRIOV);

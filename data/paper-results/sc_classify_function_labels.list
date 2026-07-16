@@ -1,0 +1,147 @@
+1:return value of bnx2x_vfpf_acquire is the critical variable
+2:return value of afs_alloc_flat_call is the critical variable
+3:return value of ovs_meter_cmd_reply_start is the critical variable
+4:return value of samsung_platform_init is the critical variable
+5:return value of kmemdup is the critical variable
+6:0
+7:return value of input_register_device is the critical variable
+8:return value of iio_device_add_info_mask_type_avail is the critical variable
+9:return value of smc_ib_buf_map_sg is the critical variable
+10:return value of sh_mdio_init is the critical variable
+11:return value of usb_add_gadget_udc is the critical variable
+12:return value of phy_connect is the critical variable
+13:return value of simple_alloc_urb is the critical variable
+14:return value of sdio_uart_add_port is the critical variable
+15:0
+16:return value of wmi_del_cipher_key is the critical variable
+17:return value of sysfs_create_group is the critical variable
+18:return value of devm_ioremap_resource is the critical variable
+19:return value of platform_device_add is the critical variable
+20:0
+21:0
+22:return value of btrfs_next_leaf is the critical variable
+23:return value of snd_ctl_add is the critical variable
+24:0
+25:return value of ecryptfs_write is the critical variable
+26:return value of amdgpu_atombios_dp_get_dp_link_config is the critical variable
+27:0
+28:0
+29:return value of mwifiex_alloc_dma_align_buf is the critical variable
+30:return value of alloc_init_skbufs is the critical variable
+31:0
+32:return value of snd_device_new is the critical variable
+33:0
+34:0
+35:0
+36:0
+37:return value of vpu_dec_start is the critical variable
+38:0
+39:0
+40:return value of moxa_init_board is the critical variable
+41:return value of diIAGRead is the critical variable
+42:return value of cgroup_bpf_inherit is the critical variable
+43:return value of read_blk is the critical variable
+44:return value of xfs_trans_alloc is the critical variable
+45:0
+46:0
+47:return value of s626_set_dac is the critical variable
+48:0
+49:return value of mthca_mr_alloc is the critical variable
+50:return value of wlcore_probe_of is the critical variable
+51:0
+52:0
+53:0
+54:0
+55:return value of register_netdev is the critical variable
+56:return value of i2c_transfer is the critical variable
+57:return value of zram_remove is the critical variable
+58:return value of of_regulator_match is the critical variable
+59:0
+60:return value of ravb_mdio_init is the critical variable
+61:0
+62:0
+63:return value of getdqbuf is the critical variable
+64:return value of mpi_write_to_sgl is the critical variable
+65:0
+66:0
+67:return value of btrfs_find_all_roots is the critical variable
+68:return value of acpi_dev_pm_explicit_set is the critical variable
+69:return value of cfg80211_inform_bss_data is the critical variable
+70:0
+71:return value of __dlm_lookup_lockres is the critical variable
+72:return value of usb_alloc_urb is the critical variable
+73:0
+74:return value of drm_event_reserve_init_locked is the critical variable
+75:0
+76:return value of hpt374_read_freq is the critical variable
+77:return value of qla2x00_start_bidir is the critical variable
+78:0
+79:return value of lbs_update_hw_spec is the critical variable
+80:0
+81:return value of rmi_of_property_read_u32 is the critical variable
+82:return value of devm_regulator_get is the critical variable
+83:return value of request_firmware is the critical variable
+84:return value of request_firmware_nowait is the critical variable
+85:0
+86:return value of mempool_alloc is the critical variable
+87:return value of bfq_create_group_hierarchy is the critical variable
+88:return value of ocfs2_lock_refcount_tree is the critical variable
+89:0
+90:0
+91:0
+92:0
+93:return value of mempool_alloc is the critical variable
+94:0
+95:0
+96:return value of rtsx_pci_send_cmd is the critical variable
+97:0
+98:return value of kstrdup is the critical variable
+99:return value of platform_device_add is the critical variable
+100:0
+101:return value of snd_pcm_new is the critical variable
+102:0
+103:return value of cgw_parse_attr is the critical variable
+104:return value of regmap_read is the critical variable
+105:return value of ocfs2_read_journal_inode is the critical variable
+106:return value of savage_map_video is the critical variable
+107:return value of fscache_hash_cookie is the critical variable
+108:0
+109:0
+110:return value of __hci_cmd_sync_ev is the critical variable
+111:return value of af9035_ctrl_msg is the critical variable
+112:0
+113:0
+114:0
+115:0
+116:return value of ffs_do_descs is the critical variable
+117:return value of ext4_issue_zeroout is the critical variable
+118:0
+119:0
+120:0
+121:return value of ath10k_download_cal_file is the critical variable
+122:return value of pcmcia_enable_device is the critical variable
+123:return value of r5l_new_meta is the critical variable
+124:return value of bpf_patch_insn_data is the critical variable
+125:return value of btrfs_insert_dir_item is the critical variable
+126:0
+127:return value of matrix_keypad_build_keymap is the critical variable
+128:return value of bq24190_register_vbus_regulator is the critical variable
+129:return value of kmemdup is the critical variable
+130:return value of parse_eth_type_from_nlattrs is the critical variable
+131:return value of allocate_and_setup is the critical variable
+132:return value of platform_get_resource_byname is the critical variable
+133:0
+134:0
+135:return value of nfp_net_init is the critical variable
+136:return value of nfs_async_unlink is the critical variable
+137:return value of mxm_table is the critical variable
+138:0
+139:0
+140:return value of platform_device_alloc is the critical variable
+141:return value of cachefiles_check_object_type is the critical variable
+142:return value of btrfs_alloc_tree_block is the critical variable
+143:0
+144:return value of usb_alloc_coherent is the critical variable
+145:return value of cxd2880_io_write_multi_regs is the critical variable
+146:return value of register_net_sysctl is the critical variable
+147:return value of pqi_add_sas_host is the critical variable

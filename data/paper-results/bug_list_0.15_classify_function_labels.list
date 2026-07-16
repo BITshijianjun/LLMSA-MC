@@ -1,0 +1,2342 @@
+1:0
+2:0
+3:0
+4:0
+5:0
+6:0
+7:return value of osst_do_scsi is the critical variable
+8:0
+9:0
+10:0
+11:0
+12:0
+13:0
+14:return value of vadc_get_channel is the critical variable
+15:0
+16:return value of extcon_set_property is the critical variable
+17:0
+18:0
+19:return value of md_bitmap_resize is the critical variable
+20:return value of devm_extcon_register_notifier is the critical variable
+21:return value of devm_extcon_register_notifier is the critical variable
+22:0
+23:0
+24:0
+25:0
+26:0
+27:0
+28:0
+29:0
+30:0
+31:0
+32:0
+33:0
+34:0
+35:0
+36:return value of pm8xxx_get_channel is the critical variable
+37:0
+38:return value of msb_run_state_machine is the critical variable
+39:0
+40:0
+41:0
+42:return value of mpt3sas_base_get_iocstate is the critical variable
+43:return value of mpt3sas_base_get_smid is the critical variable
+44:0
+45:return value of mpt3sas_base_get_msg_frame is the critical variable
+46:0
+47:return value of iio_triggered_buffer_setup is the critical variable
+48:0
+49:0
+50:0
+51:0
+52:return value of drm_gem_create_mmap_offset is the critical variable
+53:0
+54:return value of wl1273_fm_write_cmd is the critical variable
+55:0
+56:0
+57:0
+58:0
+59:0
+60:0
+61:0
+62:0
+63:0
+64:0
+65:0
+66:0
+67:return value of da9052_request_irq is the critical variable
+68:0
+69:0
+70:0
+71:0
+72:0
+73:0
+74:0
+75:0
+76:0
+77:0
+78:0
+79:0
+80:0
+81:return value of zd1201_docmd is the critical variable
+82:0
+83:0
+84:return value of of_get_next_parent is the critical variable
+85:0
+86:return value of of_mdiobus_register is the critical variable
+87:0
+88:0
+89:0
+90:0
+91:0
+92:0
+93:return value of osst_do_scsi is the critical variable
+94:0
+95:0
+96:0
+97:0
+98:0
+99:0
+100:0
+101:0
+102:0
+103:0
+104:0
+105:0
+106:0
+107:0
+108:0
+109:0
+110:0
+111:0
+112:0
+113:0
+114:0
+115:0
+116:0
+117:0
+118:0
+119:0
+120:return value of lpfc_sli_issue_mbox is the critical variable
+121:0
+122:0
+123:0
+124:0
+125:0
+126:0
+127:0
+128:0
+129:0
+130:return value of dma_async_device_register is the critical variable
+131:0
+132:0
+133:0
+134:0
+135:0
+136:0
+137:0
+138:0
+139:return value of sf1_write is the critical variable
+140:0
+141:0
+142:0
+143:0
+144:0
+145:0
+146:0
+147:0
+148:0
+149:0
+150:return value of mlx4_init_icm_table is the critical variable
+151:0
+152:0
+153:return value of bnx2_shmem_rd is the critical variable
+154:return value of bnx2_shmem_rd is the critical variable
+155:return value of bnx2_reg_rd_ind is the critical variable
+156:return value of devm_extcon_dev_register is the critical variable
+157:0
+158:0
+159:0
+160:0
+161:0
+162:0
+163:return value of lockres_init is the critical variable
+164:0
+165:0
+166:0
+167:0
+168:0
+169:0
+170:0
+171:0
+172:0
+173:0
+174:0
+175:0
+176:0
+177:0
+178:0
+179:0
+180:0
+181:0
+182:0
+183:0
+184:0
+185:0
+186:0
+187:0
+188:0
+189:0
+190:0
+191:0
+192:0
+193:0
+194:0
+195:0
+196:0
+197:0
+198:0
+199:0
+200:0
+201:0
+202:0
+203:0
+204:0
+205:0
+206:0
+207:0
+208:0
+209:0
+210:return value of btrfs_run_delayed_refs is the critical variable
+211:return value of register_netdev is the critical variable
+212:0
+213:0
+214:0
+215:0
+216:0
+217:0
+218:0
+219:0
+220:0
+221:0
+222:0
+223:0
+224:0
+225:0
+226:0
+227:0
+228:return value of devm_gpiochip_add_data is the critical variable
+229:0
+230:0
+231:return value of devm_gpiochip_add_data is the critical variable
+232:return value of devm_gpiochip_add_data is the critical variable
+233:0
+234:return value of cs42xx8_probe is the critical variable
+235:0
+236:0
+237:0
+238:0
+239:return value of find_cable_index_by_id is the critical variable
+240:return value of of_mdiobus_register is the critical variable
+241:0
+242:0
+243:0
+244:return value of register_netdevice is the critical variable
+245:0
+246:0
+247:0
+248:return value of snd_device_new is the critical variable
+249:0
+250:0
+251:0
+252:0
+253:return value of platform_device_add is the critical variable
+254:0
+255:0
+256:0
+257:0
+258:0
+259:0
+260:return value of c4iw_ofld_send is the critical variable
+261:0
+262:0
+263:0
+264:0
+265:0
+266:0
+267:0
+268:0
+269:0
+270:0
+271:0
+272:0
+273:0
+274:0
+275:0
+276:0
+277:0
+278:return value of ubifs_leb_write is the critical variable
+279:0
+280:0
+281:return value of devm_gpiochip_add_data is the critical variable
+282:0
+283:0
+284:0
+285:0
+286:0
+287:0
+288:0
+289:0
+290:0
+291:0
+292:return value of Write16 is the critical variable
+293:0
+294:return value of i915_sw_fence_await_sw_fence_gfp is the critical variable
+295:0
+296:0
+297:0
+298:0
+299:0
+300:0
+301:return value of regmap_add_irq_chip is the critical variable
+302:return value of mpt3sas_base_get_msg_frame is the critical variable
+303:0
+304:0
+305:0
+306:0
+307:0
+308:0
+309:0
+310:0
+311:0
+312:return value of snd_hda_codec_set_name is the critical variable
+313:0
+314:return value of binder_alloc_buffer_size is the critical variable
+315:return value of mpt3sas_base_get_msg_frame is the critical variable
+316:0
+317:0
+318:0
+319:0
+320:0
+321:return value of __ubifs_node_calc_hash is the critical variable
+322:0
+323:0
+324:0
+325:0
+326:0
+327:0
+328:0
+329:0
+330:0
+331:0
+332:0
+333:0
+334:0
+335:return value of ip_set_elem_len is the critical variable
+336:0
+337:0
+338:0
+339:0
+340:0
+341:return value of wl1251_cmd_send is the critical variable
+342:0
+343:0
+344:0
+345:0
+346:0
+347:0
+348:0
+349:0
+350:0
+351:0
+352:0
+353:0
+354:0
+355:0
+356:0
+357:return value of posix_acl_from_xattr is the critical variable
+358:0
+359:0
+360:0
+361:0
+362:0
+363:0
+364:0
+365:0
+366:0
+367:0
+368:return value of Write16 is the critical variable
+369:0
+370:0
+371:return value of input_register_device is the critical variable
+372:0
+373:0
+374:0
+375:0
+376:return value of pcmcia_enable_device is the critical variable
+377:0
+378:0
+379:return value of usb_gadget_map_request is the critical variable
+380:0
+381:0
+382:0
+383:0
+384:0
+385:0
+386:return value of snd_pcm_hw_refine is the critical variable
+387:0
+388:0
+389:0
+390:0
+391:0
+392:0
+393:0
+394:0
+395:0
+396:0
+397:0
+398:0
+399:0
+400:0
+401:0
+402:0
+403:0
+404:0
+405:0
+406:return value of register_netdevice is the critical variable
+407:0
+408:0
+409:0
+410:return value of regmap_add_irq_chip is the critical variable
+411:0
+412:return value of pci_iomap is the critical variable
+413:0
+414:0
+415:return value of arizona_request_irq is the critical variable
+416:0
+417:0
+418:0
+419:return value of pcim_iomap is the critical variable
+420:0
+421:0
+422:0
+423:0
+424:0
+425:0
+426:0
+427:return value of register_netdev is the critical variable
+428:0
+429:0
+430:0
+431:return value of pci_iomap is the critical variable
+432:return value of register_netdev is the critical variable
+433:return value of ceph_osdc_new_request is the critical variable
+434:0
+435:0
+436:0
+437:return value of pci_iomap is the critical variable
+438:0
+439:0
+440:0
+441:0
+442:0
+443:0
+444:0
+445:0
+446:0
+447:return value of pcim_iomap is the critical variable
+448:0
+449:return value of pci_iomap is the critical variable
+450:0
+451:0
+452:0
+453:0
+454:0
+455:0
+456:0
+457:0
+458:0
+459:0
+460:0
+461:return value of platform_device_add is the critical variable
+462:0
+463:return value of input_register_device is the critical variable
+464:0
+465:0
+466:0
+467:0
+468:0
+469:return value of mxt_obj_size is the critical variable
+470:return value of pci_iomap is the critical variable
+471:0
+472:return value of pci_iomap is the critical variable
+473:0
+474:0
+475:return value of vfs_fsync_range is the critical variable
+476:0
+477:0
+478:0
+479:0
+480:0
+481:0
+482:0
+483:return value of gen_pool_virt_to_phys is the critical variable
+484:0
+485:return value of rfkill_register is the critical variable
+486:0
+487:0
+488:return value of pci_iomap is the critical variable
+489:0
+490:0
+491:0
+492:0
+493:return value of gen_pool_dma_alloc is the critical variable
+494:0
+495:0
+496:0
+497:0
+498:0
+499:0
+500:0
+501:0
+502:0
+503:0
+504:0
+505:0
+506:0
+507:0
+508:0
+509:return value of pci_iomap is the critical variable
+510:0
+511:return value of write_blk is the critical variable
+512:return value of pci_iomap is the critical variable
+513:0
+514:0
+515:0
+516:0
+517:return value of lpfc_sli_issue_mbox is the critical variable
+518:0
+519:return value of pci_iomap is the critical variable
+520:0
+521:0
+522:return value of register_netdev is the critical variable
+523:return value of of_regulator_match is the critical variable
+524:return value of pci_iomap is the critical variable
+525:0
+526:0
+527:0
+528:0
+529:0
+530:return value of pci_iomap is the critical variable
+531:0
+532:0
+533:0
+534:0
+535:return value of pci_iomap is the critical variable
+536:return value of bnx2_reg_rd_ind is the critical variable
+537:0
+538:0
+539:0
+540:0
+541:0
+542:0
+543:0
+544:0
+545:0
+546:0
+547:0
+548:0
+549:return value of skb_copy_datagram_from_iter is the critical variable
+550:0
+551:0
+552:0
+553:0
+554:0
+555:0
+556:0
+557:0
+558:return value of osst_get_frame_position is the critical variable
+559:0
+560:0
+561:0
+562:return value of register_netdevice is the critical variable
+563:return value of __generic_file_write_iter is the critical variable
+564:0
+565:0
+566:0
+567:0
+568:0
+569:0
+570:0
+571:return value of pci_iomap is the critical variable
+572:0
+573:0
+574:0
+575:return value of snd_device_new is the critical variable
+576:return value of match_token is the critical variable
+577:0
+578:return value of register_netdev is the critical variable
+579:0
+580:return value of register_netdev is the critical variable
+581:0
+582:return value of match_int is the critical variable
+583:0
+584:return value of register_netdev is the critical variable
+585:0
+586:0
+587:0
+588:0
+589:return value of screen_pos is the critical variable
+590:0
+591:0
+592:0
+593:return value of krb5_derive_key is the critical variable
+594:0
+595:0
+596:return value of ubifs_leb_write is the critical variable
+597:0
+598:0
+599:0
+600:0
+601:0
+602:0
+603:0
+604:0
+605:0
+606:0
+607:0
+608:return value of usb_add_hcd is the critical variable
+609:0
+610:0
+611:0
+612:0
+613:0
+614:return value of pci_iomap is the critical variable
+615:0
+616:0
+617:0
+618:0
+619:0
+620:return value of fcp_avc_transaction is the critical variable
+621:0
+622:0
+623:return value of osst_do_scsi is the critical variable
+624:0
+625:0
+626:0
+627:0
+628:0
+629:0
+630:0
+631:0
+632:0
+633:0
+634:0
+635:return value of register_netdevice is the critical variable
+636:0
+637:0
+638:0
+639:0
+640:0
+641:0
+642:0
+643:0
+644:return value of read_original_sector is the critical variable
+645:0
+646:0
+647:0
+648:0
+649:0
+650:0
+651:0
+652:0
+653:return value of btrfs_next_leaf is the critical variable
+654:0
+655:0
+656:0
+657:0
+658:0
+659:0
+660:0
+661:0
+662:0
+663:0
+664:0
+665:0
+666:return value of input_register_device is the critical variable
+667:0
+668:0
+669:0
+670:0
+671:0
+672:return value of acpi_ns_evaluate is the critical variable
+673:0
+674:0
+675:return value of btrfs_set_extent_delalloc is the critical variable
+676:0
+677:0
+678:0
+679:0
+680:0
+681:0
+682:0
+683:0
+684:0
+685:return value of regmap_add_irq_chip is the critical variable
+686:0
+687:0
+688:0
+689:0
+690:0
+691:0
+692:0
+693:0
+694:0
+695:0
+696:0
+697:return value of snd_device_new is the critical variable
+698:0
+699:return value of xdp_rxq_info_reg is the critical variable
+700:0
+701:0
+702:0
+703:0
+704:0
+705:0
+706:0
+707:0
+708:0
+709:0
+710:0
+711:return value of input_register_device is the critical variable
+712:0
+713:0
+714:0
+715:return value of mite_alloc_ring is the critical variable
+716:0
+717:return value of devm_gpiochip_add_data is the critical variable
+718:0
+719:0
+720:0
+721:return value of ip_set_elem_len is the critical variable
+722:return value of mos7840_set_reg_sync is the critical variable
+723:0
+724:0
+725:return value of of_regulator_match is the critical variable
+726:0
+727:0
+728:0
+729:return value of match_token is the critical variable
+730:0
+731:0
+732:0
+733:0
+734:0
+735:0
+736:return value of platform_device_add_data is the critical variable
+737:0
+738:0
+739:0
+740:0
+741:return value of xenbus_grant_ring is the critical variable
+742:0
+743:0
+744:0
+745:0
+746:return value of snd_oxfw_stream_parse_format is the critical variable
+747:0
+748:0
+749:return value of md_register_thread is the critical variable
+750:0
+751:0
+752:0
+753:0
+754:return value of devm_extcon_dev_register is the critical variable
+755:0
+756:0
+757:0
+758:return value of pcim_iomap is the critical variable
+759:0
+760:0
+761:0
+762:return value of btrfs_search_slot_for_read is the critical variable
+763:0
+764:0
+765:0
+766:0
+767:return value of input_register_device is the critical variable
+768:return value of input_register_device is the critical variable
+769:0
+770:return value of register_netdevice is the critical variable
+771:0
+772:0
+773:return value of input_register_device is the critical variable
+774:return value of input_register_device is the critical variable
+775:0
+776:0
+777:return value of input_register_device is the critical variable
+778:0
+779:0
+780:0
+781:0
+782:return value of input_register_device is the critical variable
+783:0
+784:0
+785:return value of input_register_device is the critical variable
+786:0
+787:0
+788:0
+789:0
+790:0
+791:0
+792:0
+793:0
+794:0
+795:0
+796:0
+797:0
+798:0
+799:0
+800:0
+801:0
+802:return value of register_candev is the critical variable
+803:0
+804:0
+805:0
+806:0
+807:0
+808:0
+809:0
+810:0
+811:0
+812:return value of register_netdev is the critical variable
+813:0
+814:0
+815:0
+816:0
+817:0
+818:0
+819:0
+820:0
+821:0
+822:0
+823:0
+824:0
+825:0
+826:0
+827:0
+828:return value of cx24116_cmd_execute is the critical variable
+829:return value of hci_register_dev is the critical variable
+830:0
+831:0
+832:0
+833:0
+834:0
+835:0
+836:0
+837:0
+838:0
+839:0
+840:0
+841:0
+842:return value of il_set_tx_power is the critical variable
+843:0
+844:0
+845:0
+846:0
+847:0
+848:0
+849:0
+850:0
+851:0
+852:return value of regmap_add_irq_chip is the critical variable
+853:0
+854:return value of regmap_add_irq_chip is the critical variable
+855:0
+856:return value of regmap_add_irq_chip is the critical variable
+857:0
+858:0
+859:0
+860:return value of osst_do_scsi is the critical variable
+861:return value of matrix_keypad_build_keymap is the critical variable
+862:0
+863:0
+864:0
+865:0
+866:0
+867:0
+868:0
+869:0
+870:0
+871:0
+872:0
+873:0
+874:0
+875:return value of cxd2880_tnrdmd_dvbt2_mon_sync_stat is the critical variable
+876:0
+877:0
+878:0
+879:0
+880:0
+881:0
+882:0
+883:0
+884:return value of match_token is the critical variable
+885:0
+886:0
+887:0
+888:0
+889:0
+890:0
+891:0
+892:0
+893:0
+894:0
+895:0
+896:0
+897:0
+898:0
+899:return value of mma9553_set_config is the critical variable
+900:0
+901:0
+902:0
+903:0
+904:0
+905:0
+906:0
+907:0
+908:0
+909:0
+910:0
+911:0
+912:0
+913:0
+914:0
+915:0
+916:0
+917:0
+918:0
+919:0
+920:0
+921:0
+922:0
+923:0
+924:0
+925:0
+926:0
+927:0
+928:0
+929:0
+930:0
+931:0
+932:0
+933:0
+934:0
+935:0
+936:0
+937:0
+938:0
+939:0
+940:0
+941:0
+942:0
+943:0
+944:0
+945:0
+946:0
+947:0
+948:0
+949:0
+950:0
+951:0
+952:0
+953:0
+954:0
+955:0
+956:0
+957:0
+958:0
+959:0
+960:0
+961:0
+962:0
+963:0
+964:0
+965:0
+966:0
+967:0
+968:0
+969:0
+970:0
+971:0
+972:0
+973:0
+974:0
+975:0
+976:0
+977:0
+978:0
+979:0
+980:0
+981:0
+982:0
+983:0
+984:0
+985:0
+986:0
+987:0
+988:0
+989:0
+990:0
+991:0
+992:0
+993:0
+994:0
+995:0
+996:0
+997:0
+998:0
+999:0
+1000:0
+1001:0
+1002:0
+1003:0
+1004:0
+1005:0
+1006:0
+1007:0
+1008:0
+1009:0
+1010:0
+1011:0
+1012:0
+1013:0
+1014:0
+1015:0
+1016:0
+1017:0
+1018:0
+1019:0
+1020:0
+1021:0
+1022:0
+1023:0
+1024:0
+1025:0
+1026:0
+1027:0
+1028:0
+1029:0
+1030:0
+1031:0
+1032:0
+1033:0
+1034:0
+1035:0
+1036:0
+1037:0
+1038:0
+1039:0
+1040:0
+1041:0
+1042:0
+1043:0
+1044:0
+1045:0
+1046:0
+1047:0
+1048:0
+1049:0
+1050:0
+1051:0
+1052:0
+1053:0
+1054:0
+1055:0
+1056:0
+1057:0
+1058:0
+1059:0
+1060:0
+1061:0
+1062:0
+1063:0
+1064:0
+1065:0
+1066:0
+1067:0
+1068:0
+1069:0
+1070:0
+1071:0
+1072:0
+1073:0
+1074:0
+1075:0
+1076:0
+1077:0
+1078:0
+1079:0
+1080:0
+1081:0
+1082:0
+1083:0
+1084:0
+1085:0
+1086:0
+1087:0
+1088:0
+1089:0
+1090:0
+1091:0
+1092:0
+1093:0
+1094:0
+1095:0
+1096:0
+1097:0
+1098:0
+1099:0
+1100:0
+1101:0
+1102:0
+1103:0
+1104:0
+1105:0
+1106:0
+1107:0
+1108:0
+1109:0
+1110:0
+1111:0
+1112:0
+1113:0
+1114:0
+1115:0
+1116:0
+1117:0
+1118:0
+1119:0
+1120:0
+1121:0
+1122:0
+1123:0
+1124:0
+1125:0
+1126:0
+1127:0
+1128:0
+1129:0
+1130:0
+1131:0
+1132:0
+1133:0
+1134:0
+1135:0
+1136:0
+1137:0
+1138:0
+1139:0
+1140:0
+1141:0
+1142:0
+1143:0
+1144:0
+1145:0
+1146:0
+1147:0
+1148:0
+1149:0
+1150:0
+1151:0
+1152:return value of read_cis_cache is the critical variable
+1153:return value of ccp_set_dm_area is the critical variable
+1154:0
+1155:0
+1156:0
+1157:0
+1158:0
+1159:0
+1160:0
+1161:0
+1162:0
+1163:0
+1164:0
+1165:return value of tci_raw is the critical variable
+1166:return value of iio_get_channel_type is the critical variable
+1167:return value of atomctrl_get_dfs_pll_dividers_vi is the critical variable
+1168:return value of mpt3sas_base_get_iocstate is the critical variable
+1169:0
+1170:0
+1171:0
+1172:0
+1173:0
+1174:0
+1175:return value of skb_recv_datagram is the critical variable
+1176:return value of pwc_get_u8_ctrl is the critical variable
+1177:return value of search_bitmap is the critical variable
+1178:0
+1179:return value of sbc_check_prot is the critical variable
+1180:return value of mpt_get_msg_frame is the critical variable
+1181:return value of cyapa_i2c_pip_cmd_irq_sync is the critical variable
+1182:0
+1183:return value of validate_t2 is the critical variable
+1184:0
+1185:return value of icm_request is the critical variable
+1186:0
+1187:return value of qmi_txn_init is the critical variable
+1188:0
+1189:return value of bnx2x_send_msg2pf is the critical variable
+1190:0
+1191:return value of atomctrl_get_dfs_pll_dividers_vi is the critical variable
+1192:0
+1193:return value of sock_alloc_send_skb is the critical variable
+1194:0
+1195:0
+1196:return value of sock_alloc_send_skb is the critical variable
+1197:0
+1198:0
+1199:return value of v4l2_fwnode_endpoint_alloc_parse is the critical variable
+1200:0
+1201:0
+1202:0
+1203:0
+1204:return value of sleep_thread is the critical variable
+1205:return value of find_get_pages_contig is the critical variable
+1206:0
+1207:0
+1208:0
+1209:0
+1210:0
+1211:0
+1212:0
+1213:0
+1214:0
+1215:return value of v4l2_ctrl_new_std is the critical variable
+1216:0
+1217:return value of asd_ascb_alloc_list is the critical variable
+1218:0
+1219:0
+1220:return value of cyapa_i2c_pip_cmd_irq_sync is the critical variable
+1221:return value of krb5_derive_key is the critical variable
+1222:0
+1223:0
+1224:0
+1225:0
+1226:return value of mip4_i2c_xfer is the critical variable
+1227:0
+1228:0
+1229:0
+1230:0
+1231:return value of icm_request is the critical variable
+1232:return value of super_setup_bdi is the critical variable
+1233:0
+1234:return value of ccp_set_dm_area is the critical variable
+1235:0
+1236:return value of snd_ice1712_read_i2c is the critical variable
+1237:return value of v4l2_ctrl_new_std is the critical variable
+1238:0
+1239:0
+1240:0
+1241:0
+1242:return value of sock_alloc_send_skb is the critical variable
+1243:return value of acpi_tad_rt_next_field is the critical variable
+1244:0
+1245:return value of radeon_ucode_validate is the critical variable
+1246:return value of f2fs_get_dnode_of_data is the critical variable
+1247:0
+1248:return value of ext4_find_entry is the critical variable
+1249:0
+1250:0
+1251:0
+1252:0
+1253:0
+1254:return value of v4l2_ctrl_new_std is the critical variable
+1255:0
+1256:0
+1257:return value of qed_send_msg2pf is the critical variable
+1258:0
+1259:return value of mpt3sas_base_get_smid is the critical variable
+1260:0
+1261:0
+1262:0
+1263:return value of mlx4_get_active_ports is the critical variable
+1264:return value of v4l2_ctrl_new_std is the critical variable
+1265:0
+1266:0
+1267:0
+1268:0
+1269:return value of iwe_stream_add_value is the critical variable
+1270:0
+1271:return value of rvu_rsrc_free_count is the critical variable
+1272:0
+1273:0
+1274:return value of op32_idx2desc is the critical variable
+1275:0
+1276:0
+1277:0
+1278:0
+1279:return value of tci_raw is the critical variable
+1280:0
+1281:0
+1282:0
+1283:0
+1284:0
+1285:0
+1286:0
+1287:0
+1288:return value of sock_alloc_send_skb is the critical variable
+1289:0
+1290:0
+1291:0
+1292:0
+1293:0
+1294:0
+1295:return value of pwc_get_u8_ctrl is the critical variable
+1296:0
+1297:0
+1298:0
+1299:0
+1300:0
+1301:0
+1302:return value of evergreen_surface_check is the critical variable
+1303:return value of radeon_ucode_validate is the critical variable
+1304:return value of max8997_read_reg is the critical variable
+1305:0
+1306:return value of pcmcia_register_driver is the critical variable
+1307:0
+1308:return value of i2c_smbus_read_i2c_block_data is the critical variable
+1309:return value of i2c_smbus_write_block_data is the critical variable
+1310:return value of i2c_smbus_write_word_data is the critical variable
+1311:return value of i2c_smbus_write_byte_data is the critical variable
+1312:return value of i2c_smbus_read_byte_data is the critical variable
+1313:return value of i2c_smbus_read_byte_data is the critical variable
+1314:0
+1315:0
+1316:0
+1317:return value of i2c_smbus_read_byte_data is the critical variable
+1318:0
+1319:return value of i2c_smbus_read_byte_data is the critical variable
+1320:return value of i2c_smbus_read_byte_data is the critical variable
+1321:return value of i2c_smbus_read_byte_data is the critical variable
+1322:0
+1323:0
+1324:return value of megasas_get_cmd is the critical variable
+1325:0
+1326:return value of i2c_smbus_read_byte_data is the critical variable
+1327:return value of i2c_smbus_read_byte_data is the critical variable
+1328:0
+1329:return value of i2c_smbus_read_byte_data is the critical variable
+1330:return value of i2c_smbus_read_byte_data is the critical variable
+1331:return value of i2c_smbus_read_byte_data is the critical variable
+1332:0
+1333:return value of i2c_smbus_read_byte_data is the critical variable
+1334:return value of i2c_smbus_read_byte_data is the critical variable
+1335:return value of i2c_smbus_read_byte_data is the critical variable
+1336:0
+1337:return value of i2c_smbus_read_byte_data is the critical variable
+1338:return value of i2c_smbus_read_byte_data is the critical variable
+1339:return value of i2c_smbus_read_byte_data is the critical variable
+1340:return value of i2c_smbus_read_byte_data is the critical variable
+1341:return value of i2c_smbus_read_byte_data is the critical variable
+1342:return value of i2c_smbus_read_byte_data is the critical variable
+1343:return value of i2c_smbus_read_byte_data is the critical variable
+1344:0
+1345:return value of i2c_smbus_read_byte_data is the critical variable
+1346:return value of i2c_smbus_read_byte_data is the critical variable
+1347:0
+1348:return value of i2c_smbus_read_byte_data is the critical variable
+1349:return value of i2c_smbus_read_byte_data is the critical variable
+1350:return value of i2c_smbus_read_byte_data is the critical variable
+1351:return value of i2c_smbus_read_byte_data is the critical variable
+1352:return value of i2c_smbus_read_byte_data is the critical variable
+1353:return value of i2c_smbus_read_byte_data is the critical variable
+1354:return value of i2c_smbus_read_byte_data is the critical variable
+1355:return value of i2c_smbus_read_byte_data is the critical variable
+1356:return value of i2c_smbus_read_byte_data is the critical variable
+1357:return value of i2c_smbus_read_byte_data is the critical variable
+1358:0
+1359:return value of i2c_smbus_read_byte_data is the critical variable
+1360:return value of i2c_smbus_read_byte_data is the critical variable
+1361:return value of i2c_smbus_read_byte_data is the critical variable
+1362:return value of i2c_smbus_read_byte_data is the critical variable
+1363:return value of i2c_smbus_read_byte_data is the critical variable
+1364:return value of i2c_smbus_read_byte_data is the critical variable
+1365:return value of i2c_smbus_read_byte_data is the critical variable
+1366:return value of i2c_smbus_read_byte_data is the critical variable
+1367:return value of i2c_smbus_read_byte_data is the critical variable
+1368:return value of i2c_smbus_read_byte_data is the critical variable
+1369:0
+1370:0
+1371:return value of i2c_smbus_read_byte_data is the critical variable
+1372:return value of i2c_smbus_read_byte_data is the critical variable
+1373:return value of i2c_smbus_write_byte is the critical variable
+1374:0
+1375:0
+1376:return value of mfd_add_devices is the critical variable
+1377:return value of i2c_smbus_read_byte_data is the critical variable
+1378:0
+1379:0
+1380:0
+1381:0
+1382:0
+1383:0
+1384:return value of clk_get is the critical variable
+1385:return value of of_clk_get is the critical variable
+1386:return value of ata_exec_internal is the critical variable
+1387:return value of devm_iio_trigger_alloc is the critical variable
+1388:0
+1389:0
+1390:return value of clk_register_fixed_factor is the critical variable
+1391:return value of pm860x_reg_read is the critical variable
+1392:return value of drm_dp_dpcd_read is the critical variable
+1393:return value of i2c_smbus_read_byte_data is the critical variable
+1394:return value of drm_dp_dpcd_read is the critical variable
+1395:return value of drm_dp_dpcd_read is the critical variable
+1396:0
+1397:return value of i2c_smbus_read_byte_data is the critical variable
+1398:return value of drm_ht_insert_item is the critical variable
+1399:return value of i915_vma_unbind is the critical variable
+1400:return value of amdgpu_si_send_msg_to_smc is the critical variable
+1401:return value of amdgpu_si_send_msg_to_smc is the critical variable
+1402:return value of radeon_i2c_lookup is the critical variable
+1403:0
+1404:0
+1405:0
+1406:return value of nvif_device_time is the critical variable
+1407:0
+1408:return value of si_send_msg_to_smc is the critical variable
+1409:return value of si_send_msg_to_smc is the critical variable
+1410:return value of si_send_msg_to_smc is the critical variable
+1411:return value of dma_request_slave_channel is the critical variable
+1412:0
+1413:return value of dma_request_slave_channel is the critical variable
+1414:return value of of_clk_get is the critical variable
+1415:return value of dma_request_slave_channel is the critical variable
+1416:return value of of_device_get_match_data is the critical variable
+1417:return value of of_device_get_match_data is the critical variable
+1418:return value of i2c_smbus_read_byte_data is the critical variable
+1419:0
+1420:return value of of_device_get_match_data is the critical variable
+1421:return value of of_device_get_match_data is the critical variable
+1422:return value of drm_dp_dpcd_read is the critical variable
+1423:return value of of_device_get_match_data is the critical variable
+1424:0
+1425:return value of of_device_get_match_data is the critical variable
+1426:return value of of_device_get_match_data is the critical variable
+1427:0
+1428:return value of of_device_get_match_data is the critical variable
+1429:return value of of_device_get_match_data is the critical variable
+1430:return value of of_device_get_match_data is the critical variable
+1431:0
+1432:return value of of_match_device is the critical variable
+1433:return value of of_match_device is the critical variable
+1434:return value of of_match_device is the critical variable
+1435:0
+1436:return value of of_match_device is the critical variable
+1437:0
+1438:return value of genphy_config_aneg is the critical variable
+1439:return value of of_match_device is the critical variable
+1440:return value of dwc3_of_simple_clk_init is the critical variable
+1441:return value of dwc3_qcom_clk_init is the critical variable
+1442:return value of of_parse_phandle is the critical variable
+1443:return value of of_device_get_match_data is the critical variable
+1444:return value of of_parse_phandle is the critical variable
+1445:return value of of_parse_phandle is the critical variable
+1446:return value of of_parse_phandle is the critical variable
+1447:return value of of_parse_phandle is the critical variable
+1448:return value of of_parse_phandle is the critical variable
+1449:return value of of_parse_phandle is the critical variable
+1450:return value of of_parse_phandle is the critical variable
+1451:return value of of_parse_phandle is the critical variable
+1452:return value of of_parse_phandle is the critical variable
+1453:return value of of_parse_phandle is the critical variable
+1454:return value of i2c_smbus_read_byte_data is the critical variable
+1455:return value of nvkm_timer_read is the critical variable
+1456:return value of of_parse_phandle is the critical variable
+1457:return value of of_parse_phandle is the critical variable
+1458:return value of of_parse_phandle is the critical variable
+1459:return value of of_parse_phandle is the critical variable
+1460:return value of of_parse_phandle is the critical variable
+1461:0
+1462:0
+1463:0
+1464:0
+1465:0
+1466:0
+1467:0
+1468:return value of i2c_smbus_read_byte_data is the critical variable
+1469:0
+1470:0
+1471:0
+1472:return value of of_get_property is the critical variable
+1473:return value of i2c_smbus_read_byte_data is the critical variable
+1474:return value of of_get_property is the critical variable
+1475:return value of of_device_get_match_data is the critical variable
+1476:return value of of_parse_phandle is the critical variable
+1477:return value of of_get_property is the critical variable
+1478:return value of of_get_property is the critical variable
+1479:return value of of_get_property is the critical variable
+1480:return value of of_phy_find_device is the critical variable
+1481:return value of of_parse_phandle is the critical variable
+1482:return value of cpufreq_cpu_get is the critical variable
+1483:return value of spi_write_then_read is the critical variable
+1484:return value of of_parse_phandle is the critical variable
+1485:return value of spi_write_then_read is the critical variable
+1486:return value of of_get_phy_mode is the critical variable
+1487:0
+1488:return value of i2c_smbus_read_byte_data is the critical variable
+1489:return value of of_get_phy_mode is the critical variable
+1490:0
+1491:return value of i2c_smbus_read_byte_data is the critical variable
+1492:return value of drm_universal_plane_init is the critical variable
+1493:return value of hid_hw_open is the critical variable
+1494:0
+1495:return value of mgt_get_request is the critical variable
+1496:0
+1497:return value of i2c_smbus_read_byte_data is the critical variable
+1498:return value of of_iomap is the critical variable
+1499:return value of efx_mcdi_rpc is the critical variable
+1500:0
+1501:0
+1502:return value of mdio_read is the critical variable
+1503:0
+1504:0
+1505:return value of of_iomap is the critical variable
+1506:0
+1507:return value of ib_get_client_data is the critical variable
+1508:0
+1509:0
+1510:return value of mwifiex_cfg80211_get_adapter is the critical variable
+1511:return value of cudbg_get_buff is the critical variable
+1512:return value of wl1251_ps_set_mode is the critical variable
+1513:0
+1514:return value of i2c_smbus_read_byte_data is the critical variable
+1515:return value of ath6kl_sdio_read_write_sync is the critical variable
+1516:0
+1517:return value of res_tracker_lookup is the critical variable
+1518:return value of qed_iov_get_vf_info is the critical variable
+1519:0
+1520:0
+1521:0
+1522:0
+1523:0
+1524:return value of ene_read_reg is the critical variable
+1525:return value of myri10ge_send_cmd is the critical variable
+1526:0
+1527:0
+1528:return value of pci_msix_vec_count is the critical variable
+1529:return value of pci_find_capability is the critical variable
+1530:return value of pci_ioremap_bar is the critical variable
+1531:return value of pci_find_ext_capability is the critical variable
+1532:return value of of_device_get_match_data is the critical variable
+1533:return value of tda1004x_decode_fec is the critical variable
+1534:return value of of_parse_phandle is the critical variable
+1535:return value of tda1004x_decode_fec is the critical variable
+1536:return value of i2c_smbus_read_byte_data is the critical variable
+1537:return value of media_entity_remote_pad is the critical variable
+1538:return value of vimc_pix_map_by_code is the critical variable
+1539:return value of smscore_sendrequest_and_wait is the critical variable
+1540:return value of mlx5_get_flow_namespace is the critical variable
+1541:return value of i2c_smbus_read_byte_data is the critical variable
+1542:0
+1543:return value of i2c_read is the critical variable
+1544:return value of of_device_get_match_data is the critical variable
+1545:return value of r820t_read_cache_reg is the critical variable
+1546:return value of r820t_read_cache_reg is the critical variable
+1547:return value of r820t_read_cache_reg is the critical variable
+1548:return value of of_device_get_match_data is the critical variable
+1549:0
+1550:0
+1551:0
+1552:0
+1553:0
+1554:0
+1555:0
+1556:0
+1557:0
+1558:0
+1559:return value of netup_write_i2c is the critical variable
+1560:return value of pci_get_device is the critical variable
+1561:return value of pci_get_device is the critical variable
+1562:return value of pci_write_config_byte is the critical variable
+1563:return value of pci_write_config_dword is the critical variable
+1564:return value of pci_read_config_dword is the critical variable
+1565:0
+1566:0
+1567:return value of i2c_smbus_read_byte_data is the critical variable
+1568:return value of spi_write_then_read is the critical variable
+1569:return value of regulator_get_voltage is the critical variable
+1570:return value of of_match_device is the critical variable
+1571:return value of regulator_get_voltage is the critical variable
+1572:return value of regulator_get_voltage is the critical variable
+1573:return value of regulator_get_voltage is the critical variable
+1574:return value of regulator_get_voltage is the critical variable
+1575:return value of regulator_get_voltage is the critical variable
+1576:0
+1577:0
+1578:return value of regulator_get_voltage is the critical variable
+1579:return value of ptp_clock_register is the critical variable
+1580:return value of regmap_write is the critical variable
+1581:0
+1582:0
+1583:0
+1584:return value of regmap_read is the critical variable
+1585:0
+1586:0
+1587:0
+1588:0
+1589:return value of i2c_smbus_read_word_data is the critical variable
+1590:0
+1591:0
+1592:return value of dmi_entry_length is the critical variable
+1593:return value of usb_submit_urb is the critical variable
+1594:return value of usb_submit_urb is the critical variable
+1595:return value of usb_submit_urb is the critical variable
+1596:return value of usb_submit_urb is the critical variable
+1597:return value of ene_read_reg is the critical variable
+1598:return value of usb_submit_urb is the critical variable
+1599:return value of usb_submit_urb is the critical variable
+1600:return value of clk_get is the critical variable
+1601:return value of mlx4_slave_convert_port is the critical variable
+1602:0
+1603:return value of regulator_get_voltage is the critical variable
+1604:0
+1605:return value of regulator_get_voltage is the critical variable
+1606:return value of usb_control_msg is the critical variable
+1607:return value of regulator_get_voltage is the critical variable
+1608:return value of usb_control_msg is the critical variable
+1609:return value of usb_control_msg is the critical variable
+1610:return value of i2c_smbus_read_byte_data is the critical variable
+1611:return value of usb_control_msg is the critical variable
+1612:return value of usb_control_msg is the critical variable
+1613:return value of of_parse_phandle is the critical variable
+1614:return value of usb_control_msg is the critical variable
+1615:return value of usb_control_msg is the critical variable
+1616:return value of vfio_find_dma is the critical variable
+1617:return value of sddr55_bulk_transport is the critical variable
+1618:0
+1619:return value of sdio_get_host_pm_caps is the critical variable
+1620:return value of pci_write_config_word is the critical variable
+1621:0
+1622:return value of mempool_alloc is the critical variable
+1623:return value of regulator_enable is the critical variable
+1624:return value of mempool_alloc is the critical variable
+1625:return value of kmemdup is the critical variable
+1626:return value of strchr is the critical variable
+1627:return value of mempool_alloc is the critical variable
+1628:return value of debugfs_create_file is the critical variable
+1629:return value of i2c_new_device is the critical variable
+1630:return value of kmemdup is the critical variable
+1631:return value of kmemdup is the critical variable
+1632:0
+1633:return value of kmemdup is the critical variable
+1634:0
+1635:return value of regmap_read is the critical variable
+1636:return value of vfs_iter_read is the critical variable
+1637:return value of kmemdup is the critical variable
+1638:return value of i2c_smbus_write_byte_data is the critical variable
+1639:0
+1640:return value of kmemdup is the critical variable
+1641:0
+1642:0
+1643:0
+1644:0
+1645:0
+1646:0
+1647:0
+1648:return value of of_get_next_available_child is the critical variable
+1649:0
+1650:0
+1651:0
+1652:return value of vzalloc is the critical variable
+1653:return value of ioremap_nocache is the critical variable
+1654:return value of vmalloc is the critical variable
+1655:0
+1656:return value of vmap is the critical variable
+1657:return value of platform_get_irq is the critical variable
+1658:0
+1659:return value of snd_soc_component_update_bits is the critical variable
+1660:return value of mempool_alloc is the critical variable
+1661:return value of strchr is the critical variable
+1662:return value of usb_control_msg is the critical variable
+1663:return value of vzalloc is the critical variable
+1664:return value of of_match_device is the critical variable
+1665:0
+1666:return value of pci_find_capability is the critical variable
+1667:0
+1668:0
+1669:return value of smsc95xx_read_reg is the critical variable
+1670:0
+1671:return value of of_device_get_match_data is the critical variable
+1672:return value of mempool_alloc is the critical variable
+1673:0
+1674:return value of ioremap_nocache is the critical variable
+1675:return value of __get_free_pages is the critical variable
+1676:return value of vmalloc is the critical variable
+1677:0
+1678:return value of __get_free_pages is the critical variable
+1679:0
+1680:return value of i2c_smbus_read_byte_data is the critical variable
+1681:0
+1682:0
+1683:return value of dma_request_slave_channel is the critical variable
+1684:0
+1685:return value of debugfs_create_file is the critical variable
+1686:0
+1687:return value of i2c_smbus_read_byte_data is the critical variable
+1688:0
+1689:return value of cpumask_next is the critical variable
+1690:0
+1691:0
+1692:return value of i2c_smbus_write_byte_data is the critical variable
+1693:0
+1694:return value of qdisc_create_dflt is the critical variable
+1695:return value of kobject_create_and_add is the critical variable
+1696:return value of kobject_create_and_add is the critical variable
+1697:return value of pcim_iomap is the critical variable
+1698:return value of usb_control_msg is the critical variable
+1699:return value of register_net_sysctl is the critical variable
+1700:0
+1701:return value of debugfs_create_file is the critical variable
+1702:return value of i2c_smbus_read_byte_data is the critical variable
+1703:return value of aac_fib_send is the critical variable
+1704:0
+1705:return value of of_parse_phandle is the critical variable
+1706:0
+1707:0
+1708:0
+1709:return value of usb_control_msg is the critical variable
+1710:return value of platform_get_irq is the critical variable
+1711:return value of usb_control_msg is the critical variable
+1712:0
+1713:return value of of_find_device_by_node is the critical variable
+1714:0
+1715:return value of debugfs_create_file is the critical variable
+1716:return value of i2c_smbus_read_byte_data is the critical variable
+1717:0
+1718:return value of devm_ioremap is the critical variable
+1719:0
+1720:0
+1721:return value of of_device_get_match_data is the critical variable
+1722:return value of mdio_read is the critical variable
+1723:return value of usb_control_msg is the critical variable
+1724:return value of iwe_stream_add_point is the critical variable
+1725:0
+1726:return value of iwe_stream_add_point is the critical variable
+1727:return value of i2c_smbus_read_byte_data is the critical variable
+1728:return value of mdio_read is the critical variable
+1729:0
+1730:return value of iwe_stream_add_point is the critical variable
+1731:0
+1732:return value of device_create is the critical variable
+1733:return value of vmalloc is the critical variable
+1734:return value of devm_gpiod_get_optional is the critical variable
+1735:0
+1736:return value of kvasprintf is the critical variable
+1737:0
+1738:0
+1739:return value of __dev_get_by_index is the critical variable
+1740:0
+1741:return value of dev_get_by_index_rcu is the critical variable
+1742:0
+1743:return value of strncpy_from_user is the critical variable
+1744:return value of platform_get_irq is the critical variable
+1745:return value of register_net_sysctl is the critical variable
+1746:0
+1747:return value of match_token is the critical variable
+1748:return value of fib6_get_table is the critical variable
+1749:return value of usb_autopm_get_interface is the critical variable
+1750:return value of ovs_internal_dev_get_vport is the critical variable
+1751:return value of usb_control_msg is the critical variable
+1752:return value of debugfs_create_file is the critical variable
+1753:0
+1754:return value of ioremap_nocache is the critical variable
+1755:0
+1756:return value of i2c_smbus_read_byte_data is the critical variable
+1757:return value of usb_alloc_urb is the critical variable
+1758:return value of acpi_ut_acquire_mutex is the critical variable
+1759:return value of __get_free_pages is the critical variable
+1760:return value of debugfs_create_file is the critical variable
+1761:return value of platform_get_irq is the critical variable
+1762:return value of proc_mkdir_data is the critical variable
+1763:return value of platform_get_irq is the critical variable
+1764:return value of kmemdup is the critical variable
+1765:0
+1766:return value of skb_clone is the critical variable
+1767:0
+1768:return value of skb_clone is the critical variable
+1769:0
+1770:0
+1771:return value of platform_get_irq is the critical variable
+1772:0
+1773:0
+1774:return value of platform_get_irq is the critical variable
+1775:return value of i2c_smbus_read_byte_data is the critical variable
+1776:0
+1777:return value of ioremap_nocache is the critical variable
+1778:0
+1779:0
+1780:0
+1781:return value of snd_ctl_find_id is the critical variable
+1782:0
+1783:return value of i2c_smbus_read_byte_data is the critical variable
+1784:0
+1785:return value of securityfs_create_file is the critical variable
+1786:0
+1787:return value of acpi_evaluate_dsm is the critical variable
+1788:0
+1789:return value of find_next_zero_bit is the critical variable
+1790:return value of efx_ef10_filter_entry_spec is the critical variable
+1791:return value of dev_get_by_index_rcu is the critical variable
+1792:0
+1793:return value of platform_get_irq is the critical variable
+1794:return value of acpi_evaluate_object is the critical variable
+1795:0
+1796:0
+1797:0
+1798:0
+1799:return value of register_net_sysctl is the critical variable
+1800:return value of devm_ioport_map is the critical variable
+1801:0
+1802:0
+1803:return value of clk_get is the critical variable
+1804:return value of of_match_device is the critical variable
+1805:0
+1806:return value of platform_get_irq is the critical variable
+1807:0
+1808:0
+1809:0
+1810:0
+1811:0
+1812:0
+1813:return value of of_parse_phandle is the critical variable
+1814:return value of kmemdup is the critical variable
+1815:return value of debugfs_create_file is the critical variable
+1816:0
+1817:0
+1818:return value of dev_queue_xmit is the critical variable
+1819:return value of mempool_alloc is the critical variable
+1820:0
+1821:return value of of_iomap is the critical variable
+1822:return value of debugfs_create_file is the critical variable
+1823:return value of idr_find is the critical variable
+1824:0
+1825:return value of strchr is the critical variable
+1826:0
+1827:return value of kmemdup is the critical variable
+1828:return value of idr_find is the critical variable
+1829:0
+1830:return value of find_next_zero_bit is the critical variable
+1831:0
+1832:return value of of_get_property is the critical variable
+1833:return value of mdio_read is the critical variable
+1834:return value of mempool_alloc is the critical variable
+1835:return value of spi_write_then_read is the critical variable
+1836:return value of debugfs_create_file is the critical variable
+1837:0
+1838:return value of strchr is the critical variable
+1839:return value of devm_ioremap_resource is the critical variable
+1840:0
+1841:0
+1842:return value of iosf_mbi_read is the critical variable
+1843:return value of debugfs_create_file is the critical variable
+1844:return value of mtd_read is the critical variable
+1845:0
+1846:0
+1847:0
+1848:0
+1849:return value of iscsi_lookup_endpoint is the critical variable
+1850:0
+1851:0
+1852:return value of i2c_smbus_read_byte_data is the critical variable
+1853:0
+1854:0
+1855:return value of idr_alloc is the critical variable
+1856:return value of platform_get_irq is the critical variable
+1857:0
+1858:return value of xdr_inline_decode is the critical variable
+1859:0
+1860:return value of devm_gpiod_get is the critical variable
+1861:0
+1862:0
+1863:return value of debugfs_create_file is the critical variable
+1864:0
+1865:return value of find_next_zero_bit is the critical variable
+1866:return value of device_get_next_child_node is the critical variable
+1867:return value of snd_ctl_find_id is the critical variable
+1868:return value of of_match_device is the critical variable
+1869:0
+1870:0
+1871:0
+1872:return value of find_first_zero_bit is the critical variable
+1873:0
+1874:0
+1875:return value of snd_soc_params_to_frame_size is the critical variable
+1876:return value of kmemdup is the critical variable
+1877:0
+1878:return value of of_get_property is the critical variable
+1879:0
+1880:0
+1881:return value of i2c_smbus_read_byte_data is the critical variable
+1882:0
+1883:return value of kmemdup is the critical variable
+1884:0
+1885:0
+1886:0
+1887:return value of ov965x_write is the critical variable
+1888:return value of iwe_stream_add_point is the critical variable
+1889:return value of find_first_zero_bit is the critical variable
+1890:0
+1891:0
+1892:0
+1893:return value of skb_clone is the critical variable
+1894:0
+1895:0
+1896:0
+1897:return value of i2c_smbus_read_byte_data is the critical variable
+1898:return value of gen_pool_dma_alloc is the critical variable
+1899:return value of iwe_stream_add_point is the critical variable
+1900:return value of rdtgroup_kn_lock_live is the critical variable
+1901:return value of usb_control_msg is the critical variable
+1902:0
+1903:return value of mempool_alloc is the critical variable
+1904:0
+1905:return value of kmemdup is the critical variable
+1906:0
+1907:return value of usb_control_msg is the critical variable
+1908:return value of devm_ioremap is the critical variable
+1909:return value of get_fs_type is the critical variable
+1910:return value of of_iomap is the critical variable
+1911:return value of mempool_alloc is the critical variable
+1912:0
+1913:0
+1914:return value of kmemdup is the critical variable
+1915:0
+1916:return value of mempool_alloc is the critical variable
+1917:return value of cpumask_next is the critical variable
+1918:0
+1919:0
+1920:0
+1921:return value of strchr is the critical variable
+1922:0
+1923:0
+1924:0
+1925:return value of mmc_io_rw_direct is the critical variable
+1926:return value of blk_mq_tag_to_rq is the critical variable
+1927:return value of find_next_zero_bit is the critical variable
+1928:0
+1929:0
+1930:return value of strchr is the critical variable
+1931:0
+1932:0
+1933:return value of bio_alloc_bioset is the critical variable
+1934:return value of blk_mq_tag_to_rq is the critical variable
+1935:return value of i2c_smbus_read_byte_data is the critical variable
+1936:0
+1937:return value of clk_get is the critical variable
+1938:0
+1939:return value of iosf_mbi_read is the critical variable
+1940:return value of platform_get_irq is the critical variable
+1941:return value of platform_get_irq is the critical variable
+1942:0
+1943:0
+1944:return value of of_get_property is the critical variable
+1945:return value of strchr is the critical variable
+1946:0
+1947:return value of xfs_inobt_get_rec is the critical variable
+1948:return value of debugfs_create_file is the critical variable
+1949:return value of platform_get_irq is the critical variable
+1950:return value of platform_get_irq is the critical variable
+1951:0
+1952:0
+1953:0
+1954:0
+1955:return value of cpumask_next is the critical variable
+1956:return value of vzalloc is the critical variable
+1957:return value of find_next_zero_bit is the critical variable
+1958:return value of usb_control_msg is the critical variable
+1959:return value of find_next_zero_bit is the critical variable
+1960:return value of debugfs_create_file is the critical variable
+1961:return value of strchr is the critical variable
+1962:return value of of_parse_phandle is the critical variable
+1963:0
+1964:return value of mempool_alloc is the critical variable
+1965:return value of find_first_zero_bit is the critical variable
+1966:return value of platform_device_alloc is the critical variable
+1967:0
+1968:return value of find_first_zero_bit is the critical variable
+1969:return value of platform_get_irq is the critical variable
+1970:return value of debugfs_create_file is the critical variable
+1971:return value of find_next_bit is the critical variable
+1972:return value of find_first_zero_bit is the critical variable
+1973:return value of find_first_zero_bit is the critical variable
+1974:0
+1975:return value of usb_submit_urb is the critical variable
+1976:return value of find_first_zero_bit is the critical variable
+1977:return value of debugfs_create_file is the critical variable
+1978:0
+1979:0
+1980:return value of debugfs_create_file is the critical variable
+1981:0
+1982:return value of platform_get_irq is the critical variable
+1983:0
+1984:return value of find_next_bit is the critical variable
+1985:return value of platform_get_irq is the critical variable
+1986:0
+1987:return value of xdr_inline_decode is the critical variable
+1988:return value of genlmsg_put is the critical variable
+1989:return value of debugfs_create_file is the critical variable
+1990:0
+1991:return value of devm_ioremap is the critical variable
+1992:0
+1993:0
+1994:return value of find_next_bit is the critical variable
+1995:return value of amdgpu_si_send_msg_to_smc is the critical variable
+1996:return value of devm_ioport_map is the critical variable
+1997:return value of platform_get_irq is the critical variable
+1998:return value of iwe_stream_add_point is the critical variable
+1999:0
+2000:0
+2001:return value of i2c_smbus_read_byte_data is the critical variable
+2002:0
+2003:0
+2004:0
+2005:return value of platform_get_irq is the critical variable
+2006:return value of cpumask_next is the critical variable
+2007:return value of idr_find is the critical variable
+2008:0
+2009:0
+2010:return value of debugfs_create_file is the critical variable
+2011:return value of tomoyo_get_name is the critical variable
+2012:return value of debugfs_create_file is the critical variable
+2013:0
+2014:0
+2015:return value of idr_alloc is the critical variable
+2016:return value of platform_get_irq is the critical variable
+2017:return value of find_next_bit is the critical variable
+2018:return value of find_next_zero_bit is the critical variable
+2019:0
+2020:return value of i2c_smbus_read_byte_data is the critical variable
+2021:0
+2022:return value of ovl_create_real is the critical variable
+2023:return value of mempool_alloc is the critical variable
+2024:return value of acpi_evaluate_object is the critical variable
+2025:return value of devm_ioport_map is the critical variable
+2026:return value of sysfs_create_group is the critical variable
+2027:0
+2028:return value of mempool_alloc is the critical variable
+2029:0
+2030:return value of mempool_alloc is the critical variable
+2031:return value of mempool_alloc is the critical variable
+2032:return value of mempool_alloc is the critical variable
+2033:0
+2034:return value of platform_get_irq is the critical variable
+2035:return value of of_graph_get_next_endpoint is the critical variable
+2036:return value of platform_get_irq is the critical variable
+2037:0
+2038:0
+2039:return value of skb_clone is the critical variable
+2040:return value of fh_verify is the critical variable
+2041:return value of platform_get_irq is the critical variable
+2042:0
+2043:return value of snd_hdac_display_power is the critical variable
+2044:return value of rtsx_pci_read_register is the critical variable
+2045:0
+2046:return value of i2c_smbus_read_byte_data is the critical variable
+2047:return value of sysfs_create_group is the critical variable
+2048:return value of debugfs_create_file is the critical variable
+2049:return value of debugfs_create_file is the critical variable
+2050:return value of debugfs_create_file is the critical variable
+2051:return value of debugfs_create_file is the critical variable
+2052:return value of i2c_smbus_read_byte_data is the critical variable
+2053:return value of mempool_alloc is the critical variable
+2054:return value of debugfs_create_file is the critical variable
+2055:0
+2056:0
+2057:0
+2058:return value of usb_submit_urb is the critical variable
+2059:return value of debugfs_create_file is the critical variable
+2060:return value of debugfs_create_file is the critical variable
+2061:0
+2062:return value of debugfs_create_file is the critical variable
+2063:0
+2064:return value of platform_device_alloc is the critical variable
+2065:return value of of_device_get_match_data is the critical variable
+2066:return value of debugfs_create_file is the critical variable
+2067:return value of nvdimm_provider_data is the critical variable
+2068:return value of of_match_device is the critical variable
+2069:return value of platform_get_irq is the critical variable
+2070:return value of reg_set is the critical variable
+2071:return value of debugfs_create_file is the critical variable
+2072:0
+2073:return value of spi_setup is the critical variable
+2074:return value of debugfs_create_file is the critical variable
+2075:return value of usb_submit_urb is the critical variable
+2076:return value of debugfs_create_file is the critical variable
+2077:0
+2078:0
+2079:return value of platform_get_irq is the critical variable
+2080:0
+2081:return value of cw1200_reg_read is the critical variable
+2082:return value of debugfs_create_file is the critical variable
+2083:return value of debugfs_create_file is the critical variable
+2084:0
+2085:return value of platform_get_irq is the critical variable
+2086:return value of find_next_zero_bit is the critical variable
+2087:return value of platform_get_irq is the critical variable
+2088:return value of dm_table_get_num_targets is the critical variable
+2089:return value of debugfs_create_file is the critical variable
+2090:return value of usb_control_msg is the critical variable
+2091:return value of usb_alloc_coherent is the critical variable
+2092:return value of debugfs_create_file is the critical variable
+2093:return value of device_create_file is the critical variable
+2094:return value of debugfs_create_file is the critical variable
+2095:return value of vzalloc is the critical variable
+2096:return value of platform_get_irq is the critical variable
+2097:return value of platform_get_irq is the critical variable
+2098:0
+2099:return value of debugfs_create_file is the critical variable
+2100:return value of i2c_smbus_write_byte_data is the critical variable
+2101:0
+2102:return value of debugfs_create_file is the critical variable
+2103:0
+2104:return value of debugfs_create_file is the critical variable
+2105:return value of platform_get_irq is the critical variable
+2106:return value of of_device_get_match_data is the critical variable
+2107:return value of usb_control_msg is the critical variable
+2108:return value of cpumask_next is the critical variable
+2109:return value of debugfs_create_file is the critical variable
+2110:return value of mempool_alloc is the critical variable
+2111:return value of find_first_zero_bit is the critical variable
+2112:return value of debugfs_create_file is the critical variable
+2113:return value of debugfs_create_file is the critical variable
+2114:return value of gpiod_get_value_cansleep is the critical variable
+2115:return value of debugfs_create_file is the critical variable
+2116:return value of debugfs_create_file is the critical variable
+2117:return value of debugfs_create_file is the critical variable
+2118:return value of v4l2_m2m_get_curr_priv is the critical variable
+2119:return value of debugfs_create_file is the critical variable
+2120:return value of of_get_property is the critical variable
+2121:return value of platform_get_irq is the critical variable
+2122:return value of debugfs_create_file is the critical variable
+2123:return value of i2c_smbus_read_byte_data is the critical variable
+2124:return value of platform_get_irq is the critical variable
+2125:return value of kmemdup is the critical variable
+2126:0
+2127:return value of debugfs_create_file is the critical variable
+2128:return value of i2c_smbus_read_byte_data is the critical variable
+2129:return value of platform_get_irq is the critical variable
+2130:0
+2131:return value of debugfs_create_file is the critical variable
+2132:return value of register_net_sysctl is the critical variable
+2133:return value of debugfs_create_file is the critical variable
+2134:return value of device_create is the critical variable
+2135:return value of platform_get_irq is the critical variable
+2136:return value of debugfs_create_file is the critical variable
+2137:return value of debugfs_create_file is the critical variable
+2138:return value of debugfs_create_file is the critical variable
+2139:0
+2140:return value of devm_kstrdup is the critical variable
+2141:return value of snd_soc_component_update_bits is the critical variable
+2142:return value of vfs_removexattr is the critical variable
+2143:0
+2144:return value of snd_soc_params_to_bclk is the critical variable
+2145:return value of platform_get_irq is the critical variable
+2146:0
+2147:return value of of_iomap is the critical variable
+2148:return value of crypto_shash_final is the critical variable
+2149:return value of i2c_smbus_read_byte_data is the critical variable
+2150:0
+2151:return value of xfs_refcount_get_rec is the critical variable
+2152:return value of gpiod_direction_output is the critical variable
+2153:return value of of_find_node_by_phandle is the critical variable
+2154:return value of gpiod_get is the critical variable
+2155:0
+2156:return value of platform_get_irq is the critical variable
+2157:0
+2158:return value of memremap is the critical variable
+2159:0
+2160:return value of __lock_task_sighand is the critical variable
+2161:0
+2162:0
+2163:return value of schedule_timeout is the critical variable
+2164:return value of fc_attach_transport is the critical variable
+2165:0
+2166:0
+2167:0
+2168:return value of register_net_sysctl is the critical variable
+2169:return value of schedule_timeout is the critical variable
+2170:0
+2171:return value of platform_get_irq is the critical variable
+2172:return value of of_get_property is the critical variable
+2173:return value of schedule_timeout is the critical variable
+2174:0
+2175:return value of schedule_timeout is the critical variable
+2176:return value of md_register_thread is the critical variable
+2177:return value of i2c_smbus_read_byte_data is the critical variable
+2178:0
+2179:return value of i2c_smbus_read_byte_data is the critical variable
+2180:return value of of_parse_phandle is the critical variable
+2181:return value of acpi_evaluate_object is the critical variable
+2182:return value of debugfs_create_file is the critical variable
+2183:return value of debugfs_create_file is the critical variable
+2184:0
+2185:0
+2186:return value of debugfs_create_file is the critical variable
+2187:0
+2188:0
+2189:0
+2190:0
+2191:0
+2192:0
+2193:0
+2194:return value of i2c_smbus_read_byte_data is the critical variable
+2195:return value of i2c_smbus_read_byte_data is the critical variable
+2196:0
+2197:0
+2198:return value of debugfs_create_file is the critical variable
+2199:0
+2200:return value of regmap_write is the critical variable
+2201:return value of platform_get_irq is the critical variable
+2202:return value of debugfs_create_file is the critical variable
+2203:0
+2204:0
+2205:0
+2206:0
+2207:return value of i2c_smbus_read_byte_data is the critical variable
+2208:0
+2209:return value of strchr is the critical variable
+2210:0
+2211:return value of i2c_smbus_read_byte_data is the critical variable
+2212:return value of dma_pool_create is the critical variable
+2213:return value of platform_get_irq is the critical variable
+2214:return value of genlmsg_put is the critical variable
+2215:0
+2216:0
+2217:0
+2218:0
+2219:return value of platform_get_irq is the critical variable
+2220:0
+2221:0
+2222:return value of usb_control_msg is the critical variable
+2223:return value of ieee80211_beacon_get_tim is the critical variable
+2224:0
+2225:return value of of_device_get_match_data is the critical variable
+2226:return value of find_next_zero_bit is the critical variable
+2227:0
+2228:0
+2229:return value of find_next_bit is the critical variable
+2230:0
+2231:0
+2232:return value of platform_get_irq is the critical variable
+2233:return value of usb_alloc_urb is the critical variable
+2234:return value of debugfs_create_file is the critical variable
+2235:0
+2236:return value of usb_control_msg is the critical variable
+2237:0
+2238:0
+2239:return value of dev_get_by_index_rcu is the critical variable
+2240:return value of mmc_io_rw_direct is the critical variable
+2241:0
+2242:return value of debugfs_create_file is the critical variable
+2243:return value of devm_gpiod_get_optional is the critical variable
+2244:return value of dma_pool_create is the critical variable
+2245:0
+2246:return value of devm_gpiod_get_optional is the critical variable
+2247:0
+2248:return value of of_get_property is the critical variable
+2249:return value of __netdev_alloc_skb is the critical variable
+2250:return value of service_operation is the critical variable
+2251:return value of proc_create_data is the critical variable
+2252:return value of __dev_get_by_index is the critical variable
+2253:0
+2254:0
+2255:0
+2256:return value of btrfs_alloc_dummy_fs_info is the critical variable
+2257:return value of of_device_get_match_data is the critical variable
+2258:return value of kmemdup is the critical variable
+2259:return value of debugfs_create_file is the critical variable
+2260:0
+2261:return value of acpi_execute_simple_method is the critical variable
+2262:return value of thermal_zone_get_zone_by_name is the critical variable
+2263:return value of find_next_bit is the critical variable
+2264:return value of platform_get_irq is the critical variable
+2265:0
+2266:0
+2267:return value of regulator_get_voltage is the critical variable
+2268:0
+2269:0
+2270:0
+2271:return value of platform_get_irq is the critical variable
+2272:0
+2273:return value of platform_get_irq is the critical variable
+2274:return value of regmap_irq_get_virq is the critical variable
+2275:0
+2276:return value of sysfs_create_group is the critical variable
+2277:return value of kstrdup is the critical variable
+2278:0
+2279:0
+2280:0
+2281:return value of usb_submit_urb is the critical variable
+2282:0
+2283:return value of platform_get_irq is the critical variable
+2284:return value of kernel_setsockopt is the critical variable
+2285:return value of platform_get_irq is the critical variable
+2286:0
+2287:return value of of_iomap is the critical variable
+2288:0
+2289:return value of platform_get_irq is the critical variable
+2290:return value of usb_control_msg is the critical variable
+2291:0
+2292:return value of platform_get_irq is the critical variable
+2293:return value of platform_get_irq is the critical variable
+2294:return value of ttm_bo_kmap is the critical variable
+2295:return value of platform_get_irq is the critical variable
+2296:0
+2297:return value of platform_get_irq is the critical variable
+2298:return value of i2c_smbus_read_byte_data is the critical variable
+2299:return value of platform_get_irq is the critical variable
+2300:return value of platform_get_irq is the critical variable
+2301:0
+2302:return value of platform_get_irq is the critical variable
+2303:return value of platform_get_irq is the critical variable
+2304:return value of debugfs_create_file is the critical variable
+2305:return value of platform_get_irq is the critical variable
+2306:0
+2307:return value of platform_get_irq is the critical variable
+2308:0
+2309:return value of mfd_add_devices is the critical variable
+2310:0
+2311:return value of platform_get_irq is the critical variable
+2312:return value of xhci_get_input_control_ctx is the critical variable
+2313:return value of platform_get_irq is the critical variable
+2314:return value of platform_get_irq is the critical variable
+2315:0
+2316:return value of ene_read_reg is the critical variable
+2317:return value of platform_get_irq is the critical variable
+2318:return value of i2c_smbus_read_byte_data is the critical variable
+2319:return value of regulator_get_voltage is the critical variable
+2320:return value of device_create_file is the critical variable
+2321:return value of platform_get_irq is the critical variable
+2322:0
+2323:return value of platform_get_irq is the critical variable
+2324:return value of platform_get_irq is the critical variable
+2325:return value of platform_get_irq is the critical variable
+2326:return value of platform_get_irq is the critical variable
+2327:return value of platform_get_irq is the critical variable
+2328:0
+2329:return value of platform_get_irq is the critical variable
+2330:0
+2331:return value of drm_irq_install is the critical variable
+2332:return value of i2c_smbus_read_byte_data is the critical variable
+2333:return value of __get_free_pages is the critical variable
+2334:return value of drm_irq_install is the critical variable
+2335:return value of platform_device_alloc is the critical variable
+2336:0
+2337:return value of cec_notifier_get_conn is the critical variable
+2338:return value of kmemdup is the critical variable
+2339:0
+2340:return value of mtd_read is the critical variable
+2341:return value of devm_kstrdup is the critical variable
+2342:return value of devm_kstrdup is the critical variable
