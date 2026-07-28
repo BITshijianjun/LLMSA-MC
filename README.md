@@ -1,4 +1,4 @@
-# LLMSA-MC: Detecting Missing-Check Bugs in OS Kernels with LLMs
+# LLMSA-MC: Bridging LLM Reasoning and Static Analysis for Detecting Missing-Check Bugs in Linux Kernels
 
 Missing-check bugs are particularly common in OS kernels because they frequently interact with external untrusted user space and hardware, and carry out error-prone computation. Missing-check bugs may cause a variety of critical security consequences, including permission bypasses, out-of-bound accesses, and system crashes.
 
