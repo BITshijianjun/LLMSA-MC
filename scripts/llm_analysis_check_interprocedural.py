@@ -666,35 +666,19 @@ if __name__ == '__main__':
     globals()['enable_prompt_log'] = args.save_prompts
 
     client = OpenAI(
-        base_url="https://api.zhizengzeng.com/v1",
-        api_key="sk-zk2bc58a1cc3a1160bbbea90c5256adc56f6a3c9229af1e2",
-        # base_url="https://api.inferera.com",
-        # api_key="sk-zZa4lJoKCuiLtklk7913Ab1e6a74438e84C84c5b993e09F6",
-        # http_client=httpx.Client(
-        # proxy="http://127.0.0.1:7897",
-        # ),
+        base_url="your-api-base-url-here",  # Replace with your actual API base URL
+        api_key="your-api-key-here"  # Replace with your actual API key,
     )
 
     # Model online-status mapping (whether web_search_options is needed)
     model_online_status = {
-        # 'deepseek-v4-pro': False,
         'DeepSeek-V3': False,
         'qwen3-coder-480b-a35b-instruct': False,
         'llama-3.3-70b': False,
-        # 'qwen3-coder-plus-2025-07-22': False,
         'gpt-4o': False,
-        # 'DeepSeek-R1': False,
-        # 'deepseek-r1': False,
         'claude-sonnet-4-20250514': False,
-        # 'Qwen3-Coder': False,
-        # 'qwen3-coder-plus': False,
         'gemini-2.5-pro': False,
     }
-
-    # Use the globally defined data_type and prompt_type
-    # data_type = {0: "mc", 1: "sc", 2: "bug_list_0.15", 3: "mc_macro"}
-    # prompt_type = {0: 'RAW', 1: 'COT0', 2: 'COT', 3: 'COT1', 4: 'COT2', 5: 'COT3'}
-
 
     # Process command-line arguments - supports single-item debugging or batch processing
     if args.single_model:

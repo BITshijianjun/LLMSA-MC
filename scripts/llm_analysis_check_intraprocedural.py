@@ -342,20 +342,6 @@ def process_prompt_self_consistency(client, model, prompt, i, j, is_online, dt, 
 
 def build_prompts(file, number, code, code_context, type, function_label_info):
     return [
-# ## old RAW prompt (updated 20251106)
-#     f"""Analyze the Linux kernel v4.20-rc5 code and determine whether the critical variable of the targeted line is validated with the provided code context (based on annotated line numbers). A critical variable is any variable(e.g., pointers, error codes, status flags) used at the targeted line. A validation (or check) refers to any conditional test that ensures the variable’s correctness. A valid check must terminate execution on failure and allow normal execution on success.
-#     Code Information:
-#         File Path: {file}
-#         Targeted Line Number: {number}
-#         Targeted Line Code: {code}
-#         Source Code Context: {code_context}
-#     Output Format:
-#         Critical Variable: <name or none>,
-#         Check Status: <’The critical variable has been checked’ or ‘The critical variable has not been checked’>,
-#         Evidence: <’The line(s) where the check occurs or explanation’>
-#         Please strictly follow the above format. Do not use any other format.""",
-
-
 ## naive explicit COT prompt (with full code contexts)
 f"""Analyze the Linux kernel v4.20-rc5 code and determine whether the critical variable of the targeted line is validated with the provided code context (based on annotated line numbers).
 Please follow a structured step-by-step reasoning process before giving the final answer.
@@ -910,15 +896,8 @@ if __name__ == '__main__':
     args = create_parser()
 
     client = OpenAI(
-        ## aihubmix.com API key
-        base_url="https://aihubmix.com/v1",
-        api_key="sk-zZa4lJoKCuiLtklk7913Ab1e6a74438e84C84c5b993e09F6",
-        ## zhizengzeng.com API key
-        # base_url="https://api.zhizengzeng.com/v1",
-        # api_key="sk-zk2bc58a1cc3a1160bbbea90c5256adc56f6a3c9229af1e2",
-        http_client=httpx.Client(
-        proxy="http://127.0.0.1:7897",
-        ),
+        base_url="your-api-base-url",
+        api_key="your-api-key",
     )
 
     # Mapping of model online status (whether web_search_options is needed)
@@ -926,26 +905,11 @@ if __name__ == '__main__':
         'DeepSeek-V3': False,
         'qwen3-coder-480b-a35b-instruct': False,
         'llama-3.3-70b': False,
-        # 'qwen3-coder-plus-2025-07-22': False,
         'gpt-4o': False,
-        # 'DeepSeek-R1': False,
         'claude-sonnet-4-20250514': False,
-        # 'Qwen3-Coder': False,
         'gemini-2.5-pro': False,
     }
-
-    # Use the globally defined data_type and prompt_type
-    # data_type = {0: "mc", 1: "sc", 2: "bug_list_0.15", 3: "mc_macro"}
-    # prompt_type = {0: 'RAW', 1: 'COT0', 2: 'COT', 3: 'COT1', 4: 'COT2', 5: 'COT3'}
-
-
-    # Handle command-line arguments - supports single debug mode or batch processing
-    # if args.single_model:
-    #     model_list = [args.single_model]
-    # else:
-    #     model_list = args.models
-    # else:
-    #     model_list = ['qwen3-coder-plus-2025-07-22']
+    
     if args.single_model:
         model_list = [args.single_model]
     elif args.models:

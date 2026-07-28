@@ -1651,27 +1651,11 @@ if __name__ == '__main__':
     # paper and bug list matched labels
     ## 0: bug_list_0.15.txt: no classify, #1: bug_list_0.15_classify.list: classify #2: bug_list_0.15_classify_full_contexts.list: with classify full contexts
     match_paper_report_results_classify_label(bug_path_1, os.path.join(input_dir, 'matched_before_after_use_10.list'), os.path.join(bug_path_0, 'bug_list_0.15_classify_full_contexts.list'), 2) 
-    
-    ## compare bug list 0.15/0.20/0.25 and new/old
-    compare_old_new_bug_list(bug_path_1+'/bug_list_0.20_classify.list', bug_path_2+'/bug_list_0.25_classify.list', bug_path_2)
-
-    ## get old bug list results
-    generate_new_bug_list_results(bug_path_0+'/bug_list_0.15_classify.list', bug_path_1+'/bug_list_0.20_classify.list', llm_results_path+'/bug_list_0.15_COT_claude-sonnet-4-20250514-new.csv', llm_results_path+'/bug_list_0.2_COT_claude-sonnet-4-20250514-newadd.csv', llm_results_path+'/bug_list_0.2_COT_claude-sonnet-4-20250514-new.csv')
-
+      
     ## static analysis results process
     ##*******************************************
     func_return_value_labels_process(os.path.join(input_dir, 'function_return_value_labels.json'), os.path.join(input_dir, 'sc_classify.list'), os.path.join(input_dir, 'sc_classify_function_labels.list'))
 
-    ## linux-4.20-rc5 and linux-6.18-rc5 compare
-    bug_list_path = os.path.join(input_dir, 'bug_list_0.15_classify.list')
-    compare_kernel_code(src_path, src_path_1, bug_list_path)
-    new_fixed_list = [
-        137, 1308, 1414, 1438, 1556, 1589, 1745, 1774, 1813, 1894,
-        1949, 2034, 2041, 2069, 2110, 2132, 2140, 2181, 2232, 2264,
-        2265, 2295, 2313, 2327, 2342
-    ]
-    analyze_fixed_bug(new_fixed_list, os.path.join(bug_path_0, 'bug_list_0.15_classify.list'))
-    
     ## subsystem distribution analysis (mc+sc, bug_list)
     ##********************************************
     mc_classify_path = os.path.join(input_dir, 'mc_classify.list')
