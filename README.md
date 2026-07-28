@@ -1,8 +1,8 @@
 # LLMSA-MC: Detecting Missing-Check Bugs in OS Kernels with LLMs
 
-Missing a security check is a class of semantic bugs in software programs where erroneous execution states are not validated. Missing-check bugs are particularly common in OS kernels because they frequently interact with external untrusted user space and hardware, and carry out error-prone computation. Missing-check bugs may cause a variety of critical security consequences, including permission bypasses, out-of-bound accesses, and system crashes.
+Missing-check bugs are particularly common in OS kernels because they frequently interact with external untrusted user space and hardware, and carry out error-prone computation. Missing-check bugs may cause a variety of critical security consequences, including permission bypasses, out-of-bound accesses, and system crashes.
 
-LLMSA-MC detects missing-check bugs in the Linux kernel by combining static-analysis-derived candidate locations with LLM-based semantic validation. For each candidate location (a use of a security-sensitive variable that may lack a preceding check), the tool builds a chain-of-thought prompt from the candidate's source context — and, for inter-procedural cases, its caller function and callsite — and asks an LLM to judge whether the corresponding "critical variable" was actually validated before use. Both intra-procedural and inter-procedural candidates are supported.
+LLMSA-MC detects missing-check bugs in the Linux kernel by combining static analysis with LLM-based semantic validation. For each candidate location (a use of a security-sensitive variable that may lack a preceding check), the tool builds a chain-of-thought prompt from the candidate's source context — and, for inter-procedural cases, its caller function and callsite — and asks an LLM to judge whether the corresponding "critical variable" was actually validated before use. Both intra-procedural and inter-procedural candidates are supported.
 
 ## How to use LLMSA-MC
 
